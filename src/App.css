@@ -1,3 +1,11 @@
+* { margin: 0; }
 .App {
+    background-color: #222244;
+}
 
+.Titlefont{
+    margin-left: 40px;
+    color: gold;
+    font-size: 100px;
+    font-family: "Niagara Engraved", sans-serif;
 }

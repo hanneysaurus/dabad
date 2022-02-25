@@ -1,12 +1,14 @@
 import stylesheet from './SearchBar.css'
 
-const SearchBar = () => {
+const SearchBar = ({searchQuery, setSearchQuery}) => {
     return (
         <form action="/" method="get">
             <input
+                value={searchQuery}
+                onInput={e => setSearchQuery(e.target.value)}
                 type="text"
                 id="searchbar"
-                placeholder="search movies"
+                placeholder=" search movies"
                 name="s"
                 style={stylesheet}
             />
