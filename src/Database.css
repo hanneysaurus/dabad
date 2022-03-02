@@ -1,5 +1,14 @@
 .Subpagefont{
     margin-left: 40px;
     color: gold;
+}
+
+.SearchBar{
+    width: 100%;
+    display: block;
+    justify-content: end;
+}
+
+.Database{
 
 }

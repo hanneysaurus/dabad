@@ -18,22 +18,23 @@ const filterMovies = (movies, query) => {
     });
 };
 
-function Database(){
+function Database() {
 
-    const { search } = window.location;
+    const {search} = window.location;
     const query = new URLSearchParams(search).get('s');
     const [searchQuery, setSearchQuery] = useState(query || '');
     const filteredMovies = filterMovies(data, searchQuery);
 
-    return(
+    return (
         <div>
             <h1 className="Subpagefont">Full Database</h1>
-            <SearchBar searchQuery={searchQuery}
+            <SearchBar className="SearchBar" searchQuery={searchQuery}
                        setSearchQuery={setSearchQuery}/>
-            <ul>{filteredMovies.map((movie)=>(
+            <ul className="Database">{filteredMovies.map((movie) => (
                 <Icon movie_data={movie}/>
             ))}</ul>
         </div>
     )
 }
+
 export default Database;

@@ -5,6 +5,12 @@
     margin-left: 40px;
     margin-top: 10px;
     margin-bottom: 10px;
+    display: inline-block;
+    alignment: right;
+    align-content: end;
+    alignment-baseline: middle;
+    align-items: end;
+    align-self: end;
 }
 
 #searchbutton{

@@ -1,11 +1,11 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React, {useEffect, useRef} from 'react';
 import * as d3 from 'd3';
-import {GetID} from '../Utils.js'
+import {GetID, GetImageName} from '../Utils.js';
+import 'react-image-crop/dist/ReactCrop.css';
 
-const Test = (movie_data) => {
+const Icon = (movie_data) => {
 
-    var movie_info = movie_data.movie_data
-    console.log(movie_info);
+    var movie_info = movie_data.movie_data;
     // state and ref to svg
     const svgRef = useRef();
 
@@ -26,9 +26,6 @@ const Test = (movie_data) => {
             .attr('height', svg_height)
             .attr('id', GetID(movie_info.Title, movie_info.Year));
 
-        svg.selectAll('text').remove();
-        svg.selectAll('rect').remove();
-
         svg.append('rect')
             .attr('x', 0)
             .attr('y', 0)
@@ -37,12 +34,25 @@ const Test = (movie_data) => {
             .attr('fill', 'white')
             .attr('stroke', 'darkblue');
 
+        var pattern = svg.append('pattern')
+            .attr('id', GetImageName(movie_info.Title) + '_pattern')
+            .attr('height', 1)
+            .attr('width', 1);
+
+        pattern.append('svg:image')
+            .attr('x', 0)
+            .attr('y', 0)
+            .attr('width', poster_size)
+            .attr('xlink:href', process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg');
+
+        console.log(GetImageName(movie_info.Title));
+
         svg.append('rect')
             .attr('x', margin)
             .attr('y', margin)
             .attr('width', poster_size)
             .attr('height', poster_size)
-            .attr('fill', 'darkblue');
+            .attr('fill', 'url(#' + GetImageName(movie_info.Title) + '_pattern)');
 
         svg.append('text')
             .attr('x', width/2)
@@ -62,13 +72,12 @@ const Test = (movie_data) => {
             svg.selectAll("svg").exit().remove();
         }
 
-
     }, );
 
     return <React.Fragment>
-        <svg overflow='visible' height={500} width={500} ref={svgRef}/>
+        <svg ref={svgRef}/>
     </React.Fragment>;
 };
 
-export default Test;
+export default Icon;
 
