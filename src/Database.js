@@ -24,10 +24,19 @@ function Database() {
     const query = new URLSearchParams(search).get('s');
     const [searchQuery, setSearchQuery] = useState(query || '');
     const filteredMovies = filterMovies(data, searchQuery);
+    var movieCount = 0;
+    var seriesCount = 0;
+    for (let i = 0; i < data.length; i++) {
+        if (data[i].Type === "Series"){
+            seriesCount++;
+        } else if (data[i].Type === "Movie"){
+            movieCount++;
+        }
+    }
 
     return (
         <div>
-            <h1 className="Subpagefont">Full Database</h1>
+            <h1 className="Subpagefont">Full Database [{movieCount} movies, {seriesCount} seasons]</h1>
             <SearchBar className="SearchBar" searchQuery={searchQuery}
                        setSearchQuery={setSearchQuery}/>
             <ul className="Database">{filteredMovies.map((movie) => (

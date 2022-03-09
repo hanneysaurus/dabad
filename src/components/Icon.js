@@ -3,6 +3,20 @@ import * as d3 from 'd3';
 import {GetID, GetImageName} from '../Utils.js';
 import 'react-image-crop/dist/ReactCrop.css';
 
+var BrowserText = (function () {
+    var canvas = document.createElement('canvas'),
+        context = canvas.getContext('2d');
+
+    function getWidth(text, fontSize, fontFace) {
+        context.font = fontSize + 'px ' + fontFace;
+        return context.measureText(text).width;
+    }
+
+    return {
+        getWidth: getWidth
+    };
+})();
+
 const Icon = (movie_data) => {
 
     var movie_info = movie_data.movie_data;
@@ -20,6 +34,11 @@ const Icon = (movie_data) => {
         var poster_size = width - 2 * margin;
         var title_font_size = width/10;
         var year_font_size = title_font_size * 0.6;
+
+        // TODO: linebreak (take from Twisualization)
+        while (BrowserText.getWidth(movie_info.Title, title_font_size, 'Segoe UI') > poster_size){
+            title_font_size--;
+        }
 
         const svg = d3.select(svgRef.current)
             .attr('width', svg_width)
@@ -45,8 +64,6 @@ const Icon = (movie_data) => {
             .attr('width', poster_size)
             .attr('xlink:href', process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg');
 
-        console.log(GetImageName(movie_info.Title));
-
         svg.append('rect')
             .attr('x', margin)
             .attr('y', margin)
@@ -59,7 +76,10 @@ const Icon = (movie_data) => {
             .attr('y', width + margin + title_font_size/2)
             .attr('text-anchor', 'middle')
             .style('font-size', title_font_size)
+            .style('font-family', 'Segoe UI')
             .text(movie_info.Title);
+
+        console.log(BrowserText.getWidth(movie_info.Title, title_font_size, 'Segoe UI'));
 
         svg.append('text')
             .attr('x', width/2)
