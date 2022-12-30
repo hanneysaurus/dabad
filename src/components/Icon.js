@@ -60,18 +60,18 @@ const Icon = (movie_data) => {
             .attr('height', 1)
             .attr('width', 1);
 
-        var placeholder = false;
+        var imgurl = "placeholder";
         const img = new Image();
         img.src = "/images/" + GetImageName(movie_info.Title) + ".jpg";
-        if (img.width === 0) {
-            placeholder = true;
+        if (img.width !== 0) {
+            imgurl = GetImageName(movie_info.Title);
         }
 
         pattern.append('svg:image')
             .attr('x', 0)
             .attr('y', 0)
             .attr('width', poster_size)
-            .attr('xlink:href', process.env.PUBLIC_URL + '/images/' + (placeholder ? 'placeholder' : GetImageName(movie_info.Title)) + '.jpg');
+            .attr('xlink:href', process.env.PUBLIC_URL + '/images/' + imgurl + '.jpg');
 
         svg.append('rect')
             .attr('x', margin)
