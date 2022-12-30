@@ -35,6 +35,8 @@ const Icon = (movie_data) => {
         var title_font_size = width/10;
         var year_font_size = title_font_size * 0.6;
 
+        console.log(movie_info.Title);
+
         // TODO: linebreak (take from Twisualization)
         while (BrowserText.getWidth(movie_info.Title, title_font_size, 'Segoe UI') > poster_size){
             title_font_size--;
@@ -58,11 +60,18 @@ const Icon = (movie_data) => {
             .attr('height', 1)
             .attr('width', 1);
 
+        var placeholder = false;
+        const img = new Image();
+        img.src = "/images/" + GetImageName(movie_info.Title) + ".jpg";
+        if (img.width === 0) {
+            placeholder = true;
+        }
+
         pattern.append('svg:image')
             .attr('x', 0)
             .attr('y', 0)
             .attr('width', poster_size)
-            .attr('xlink:href', process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg');
+            .attr('xlink:href', process.env.PUBLIC_URL + '/images/' + (placeholder ? 'placeholder' : GetImageName(movie_info.Title)) + '.jpg');
 
         svg.append('rect')
             .attr('x', margin)
@@ -78,8 +87,6 @@ const Icon = (movie_data) => {
             .style('font-size', title_font_size)
             .style('font-family', 'Segoe UI')
             .text(movie_info.Title);
-
-        console.log(BrowserText.getWidth(movie_info.Title, title_font_size, 'Segoe UI'));
 
         svg.append('text')
             .attr('x', width/2)

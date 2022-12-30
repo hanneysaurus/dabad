@@ -5,11 +5,9 @@
   "Title": "1917",
   "Year": 2019,
   "Director": "Sam Mendes",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 119
  },
  {
   "Type": "Movie",
@@ -17,11 +15,19 @@
   "Title": "A Beautiful Mind",
   "Year": 2001,
   "Director": "Ron Howard",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 130
+ },
+ {
+  "Type": "Movie",
+  "Medium": "BluRay",
+  "Title": "A Girl Walks Home Alone At Night",
+  "Year": 2014,
+  "Director": "Ana Lily Amirpour",
+  "Seen": "NO",
+  "Franchise": "NO",
+  "Length": 100
  },
  {
   "Type": "Movie",
@@ -29,11 +35,10 @@
   "Title": "A Quiet Place",
   "Year": 2018,
   "Director": "John Krasinski",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 87
  },
  {
   "Type": "Movie",
@@ -41,35 +46,26 @@
   "Title": "A Simple Favor",
   "Year": 2018,
   "Director": "Paul Feig",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 112
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "Aladdin",
   "Year": 2019,
   "Director": "Guy Ritchie",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 128
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Aladin",
-  "Year": null,
-  "Director": null,
-  "Franchise": null,
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Seen": "NO",
+  "Length": 50
  },
  {
   "Type": "Movie",
@@ -77,11 +73,21 @@
   "Title": "Alf [Season 1]",
   "Year": 1988,
   "Director": "Tom Patchett, Paul Fusco",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 30
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Allegiant",
+  "Year": 2016,
+  "Director": "Robert Schwentke",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "YES",
+  "Length": 115
  },
  {
   "Type": "Movie",
@@ -89,11 +95,10 @@
   "Title": "Angels & Demons",
   "Year": 2009,
   "Director": "Ron Howard",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 138
  },
  {
   "Type": "Movie",
@@ -101,11 +106,9 @@
   "Title": "Annihilation",
   "Year": 2018,
   "Director": "Alex Garland",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 115
  },
  {
   "Type": "Movie",
@@ -113,11 +116,9 @@
   "Title": "Aquaman",
   "Year": 2018,
   "Director": "James Wan",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 137
  },
  {
   "Type": "Movie",
@@ -125,11 +126,20 @@
   "Title": "Arrival",
   "Year": 2016,
   "Director": "Denis Villeneuve",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 112
+ },
+ {
+  "Type": "Movie",
+  "Medium": "BluRay",
+  "Title": "Asterix der Gallier",
+  "Year": 1967,
+  "Director": "Ray Goossens",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "NO",
+  "Length": 65
  },
  {
   "Type": "Movie",
@@ -137,11 +147,9 @@
   "Title": "At Eternity's Gate",
   "Year": 2018,
   "Director": "Julian Schnabel",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 111
  },
  {
   "Type": "Movie",
@@ -149,11 +157,9 @@
   "Title": "Avatar",
   "Year": 2009,
   "Director": "James Cameron",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 162
  },
  {
   "Type": "Movie",
@@ -161,11 +167,9 @@
   "Title": "Bad Times at the El Royale",
   "Year": 2018,
   "Director": "Drew Goddard",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 136
  },
  {
   "Type": "Movie",
@@ -173,11 +177,10 @@
   "Title": "Batman Begins",
   "Year": 2005,
   "Director": "Christopher Nolan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 134
  },
  {
   "Type": "Movie",
@@ -185,11 +188,9 @@
   "Title": "Batman v Superman: Dawn of Justice",
   "Year": 2016,
   "Director": "Zack Snyder",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 151
  },
  {
   "Type": "Movie",
@@ -197,11 +198,10 @@
   "Title": "Battle for the Planet of the Apes",
   "Year": 1973,
   "Director": "J. Lee Thompson",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 83
  },
  {
   "Type": "Movie",
@@ -209,11 +209,9 @@
   "Title": "Battle of the Sexes",
   "Year": 2017,
   "Director": "Jonathan Dayton, Valerie Faris",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 122
  },
  {
   "Type": "Movie",
@@ -221,11 +219,9 @@
   "Title": "Baywatch",
   "Year": 2017,
   "Director": "Seth Gordon",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 112
  },
  {
   "Type": "Movie",
@@ -233,11 +229,9 @@
   "Title": "Bean",
   "Year": 1997,
   "Director": "Mel Smith",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 85
  },
  {
   "Type": "Movie",
@@ -245,11 +239,9 @@
   "Title": "Beauty and the Beast",
   "Year": 2017,
   "Director": "Bill Condon",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 129
  },
  {
   "Type": "Movie",
@@ -257,11 +249,9 @@
   "Title": "Bee Movie",
   "Year": 2007,
   "Director": "Simon J. Smith, Steve Hickner",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 87
  },
  {
   "Type": "Movie",
@@ -269,11 +259,10 @@
   "Title": "Beneath the Planet of the Apes",
   "Year": 1970,
   "Director": "Ted Post",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
   "Type": "Movie",
@@ -281,11 +270,9 @@
   "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
   "Year": 2014,
   "Director": "Alejandro G. Inárritu",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
   "Type": "Movie",
@@ -293,11 +280,9 @@
   "Title": "Birds Of Prey (And the Fantabulous Emancipation of One Harley Quinn)",
   "Year": 2020,
   "Director": "Cathy Yan",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 109
  },
  {
   "Type": "Movie",
@@ -305,11 +290,19 @@
   "Title": "Black Panther",
   "Year": 2018,
   "Director": "Ryan Coogler",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 134
+ },
+ {
+  "Type": "Movie",
+  "Medium": "BluRay",
+  "Title": "BlacKkKlansman",
+  "Year": 2018,
+  "Director": "Spike Lee",
+  "Seen": "YES",
+  "Franchise": "NO",
+  "Length": 135
  },
  {
   "Type": "Movie",
@@ -317,11 +310,10 @@
   "Title": "Blade Runner",
   "Year": 1982,
   "Director": "Ridley Scott",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 113
  },
  {
   "Type": "Movie",
@@ -329,11 +321,9 @@
   "Title": "Bombshell",
   "Year": 2019,
   "Director": "Jay Roach",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 105
  },
  {
   "Type": "Movie",
@@ -341,11 +331,9 @@
   "Title": "Booksmart",
   "Year": 2019,
   "Director": "Olivia Wilde",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 98
  },
  {
   "Type": "Movie",
@@ -353,11 +341,9 @@
   "Title": "Brooklyn",
   "Year": 2015,
   "Director": "John Crawley",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -365,11 +351,9 @@
   "Title": "Capote",
   "Year": 2005,
   "Director": "Bennett Miller",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
   "Type": "Movie",
@@ -377,11 +361,9 @@
   "Title": "Captain America: The Winter Soldier",
   "Year": 2014,
   "Director": "Anthony Russo, Joe Russo",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 136
  },
  {
   "Type": "Movie",
@@ -389,11 +371,9 @@
   "Title": "Carol",
   "Year": 2015,
   "Director": "Todd Haynes",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
   "Type": "Movie",
@@ -401,11 +381,10 @@
   "Title": "Casino Royale",
   "Year": 2006,
   "Director": "Martin Campbell",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 144
  },
  {
   "Type": "Movie",
@@ -413,11 +392,9 @@
   "Title": "Charlie and the Chocolate Factory",
   "Year": 2005,
   "Director": "Tim Burton",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
   "Type": "Movie",
@@ -425,11 +402,9 @@
   "Title": "Charlie's Angels",
   "Year": 2019,
   "Director": "Elizabeth Banks",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
   "Type": "Movie",
@@ -437,11 +412,9 @@
   "Title": "Christopher Robin",
   "Year": 2018,
   "Director": "Marc Forster",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 99
  },
  {
   "Type": "Movie",
@@ -449,11 +422,20 @@
   "Title": "Cloudy with a Chance of Meatballs 2",
   "Year": 2013,
   "Director": "Cody Cameron, Kris Pearn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Clue",
+  "Year": 1985,
+  "Director": "Jonathan Lynn",
+  "Seen": "YES",
+  "Franchise": "NO",
+  "Length": 93
  },
  {
   "Type": "Movie",
@@ -461,11 +443,9 @@
   "Title": "Collateral",
   "Year": 2004,
   "Director": "Michael Mann",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
  },
  {
   "Type": "Movie",
@@ -473,11 +453,10 @@
   "Title": "Conquest of the Planet of the Apes",
   "Year": 1972,
   "Director": "J. Lee Thompson",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 83
  },
  {
   "Type": "Movie",
@@ -485,11 +464,9 @@
   "Title": "Crazy Rich Asians",
   "Year": 2018,
   "Director": "Jon M. Chu",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 116
  },
  {
   "Type": "Movie",
@@ -497,11 +474,9 @@
   "Title": "Dead Poets Society",
   "Year": 1989,
   "Director": "Peter Weir",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 123
  },
  {
   "Type": "Movie",
@@ -509,11 +484,9 @@
   "Title": "Death on the Nile",
   "Year": 1978,
   "Director": "John Guillermin",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 134
  },
  {
   "Type": "Movie",
@@ -521,11 +494,10 @@
   "Title": "Despicable Me",
   "Year": 2010,
   "Director": "Pierre Coffin, Chris Renaud",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
   "Type": "Movie",
@@ -533,11 +505,10 @@
   "Title": "Despicable Me 2",
   "Year": 2013,
   "Director": "Pierre Coffin, Chris Renaud",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 94
  },
  {
   "Type": "Movie",
@@ -545,11 +516,10 @@
   "Title": "Diary of a Wimpy Kid",
   "Year": 2010,
   "Director": "Thor Freudenthal",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 89
  },
  {
   "Type": "Movie",
@@ -557,11 +527,10 @@
   "Title": "Diary of a Wimpy Kid: Dog Days",
   "Year": 2012,
   "Director": "David Bowers",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 90
  },
  {
   "Type": "Movie",
@@ -569,11 +538,10 @@
   "Title": "Diary of a Wimpy Kid: Rodrick Rules",
   "Year": 2011,
   "Director": "David Bowers",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 95
  },
  {
   "Type": "Movie",
@@ -581,11 +549,10 @@
   "Title": "Die Wilden Kerle: Alles ist gut, solange du wild bist!",
   "Year": 2003,
   "Director": "Joachim Masannek",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 96
  },
  {
   "Type": "Movie",
@@ -593,11 +560,10 @@
   "Title": "Divergent",
   "Year": 2014,
   "Director": "Neil Burger",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 134
  },
  {
   "Type": "Movie",
@@ -605,11 +571,9 @@
   "Title": "Doubt",
   "Year": 2008,
   "Director": "John Patrick Shanley",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 104
  },
  {
   "Type": "Movie",
@@ -617,11 +581,20 @@
   "Title": "Drive",
   "Year": 2011,
   "Director": "Nicolas Winding Refn",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 96
+ },
+ {
+  "Type": "Movie",
+  "Medium": "BluRay",
+  "Title": "Dune",
+  "Year": 2021,
+  "Director": "Denis Villeneuve",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "YES",
+  "Length": 155
  },
  {
   "Type": "Movie",
@@ -629,11 +602,9 @@
   "Title": "Easy A",
   "Year": 2010,
   "Director": "Will Gluck",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 89
  },
  {
   "Type": "Movie",
@@ -641,11 +612,9 @@
   "Title": "Eddie the Eagle",
   "Year": 2015,
   "Director": "Dexter Fletcher",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 102
  },
  {
   "Type": "Movie",
@@ -653,11 +622,20 @@
   "Title": "Escape from the Planet of the Apes",
   "Year": 1971,
   "Director": "Don Taylor",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 93
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Everything Everywhere All At Once",
+  "Year": 2022,
+  "Director": "Dan Kwan, Daniel Scheinert",
+  "Seen": "NO",
+  "Franchise": "NO",
+  "Length": 134
  },
  {
   "Type": "Movie",
@@ -665,11 +643,9 @@
   "Title": "Evil Under the Sun",
   "Year": 1982,
   "Director": "Guy Hamilton",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 111
  },
  {
   "Type": "Movie",
@@ -677,11 +653,9 @@
   "Title": "Ex Machina",
   "Year": 2014,
   "Director": "Alex Garland",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 103
  },
  {
   "Type": "Movie",
@@ -689,11 +663,9 @@
   "Title": "Exodus",
   "Year": 2014,
   "Director": "Ridley Scott",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 150
  },
  {
   "Type": "Movie",
@@ -701,11 +673,10 @@
   "Title": "Fack Ju Göhte",
   "Year": 2013,
   "Director": "Bora Dagtekin",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 113
  },
  {
   "Type": "Movie",
@@ -713,11 +684,10 @@
   "Title": "Fack Ju Göhte 2",
   "Year": 2015,
   "Director": "Bora Dagtekin",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 111
  },
  {
   "Type": "Movie",
@@ -725,11 +695,10 @@
   "Title": "Fack Ju Göhte 3",
   "Year": 2017,
   "Director": "Bora Dagtekin",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
  },
  {
   "Type": "Movie",
@@ -737,11 +706,10 @@
   "Title": "Fantastic Beasts and Where to Find Them",
   "Year": 2016,
   "Director": "David Yates",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 129
  },
  {
   "Type": "Movie",
@@ -749,11 +717,10 @@
   "Title": "Fantastic Beasts: Crimes of Grindelwald",
   "Year": 2018,
   "Director": "David Yates",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 128
  },
  {
   "Type": "Movie",
@@ -761,11 +728,9 @@
   "Title": "First Man",
   "Year": 2018,
   "Director": "Damien Chazelle",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 135
  },
  {
   "Type": "Movie",
@@ -773,11 +738,9 @@
   "Title": "Florence Foster Jenkins",
   "Year": 2016,
   "Director": "Stephen Frears",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 106
  },
  {
   "Type": "Movie",
@@ -785,11 +748,9 @@
   "Title": "Focus",
   "Year": 2015,
   "Director": "Glenn Ficarra, John Requa",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 100
  },
  {
   "Type": "Movie",
@@ -797,11 +758,9 @@
   "Title": "Frank Sinatra: King of Swing",
   "Year": 2019,
   "Director": "Joseph Peveney, Lewis Allen, Richard Whorf",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 340
  },
  {
   "Type": "Movie",
@@ -809,11 +768,10 @@
   "Title": "Frozen",
   "Year": 2013,
   "Director": "Chris Buck, Jennifer Lee",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 98
  },
  {
   "Type": "Movie",
@@ -821,11 +779,10 @@
   "Title": "Frozen II",
   "Year": 2019,
   "Director": "Chris Buck, Jennifer Lee",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 103
  },
  {
   "Type": "Movie",
@@ -833,11 +790,9 @@
   "Title": "Get Out",
   "Year": 2017,
   "Director": "Jordan Peele",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 100
  },
  {
   "Type": "Movie",
@@ -845,11 +800,10 @@
   "Title": "Glass",
   "Year": 2019,
   "Director": "M. Night Shyamalan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 130
  },
  {
   "Type": "Movie",
@@ -857,11 +811,9 @@
   "Title": "Gone Girl",
   "Year": 2014,
   "Director": "David Fincher",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 143
  },
  {
   "Type": "Movie",
@@ -869,11 +821,9 @@
   "Title": "Good Will Hunting",
   "Year": 1997,
   "Director": "Gus Van Sant",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 121
  },
  {
   "Type": "Movie",
@@ -881,95 +831,91 @@
   "Title": "Goodbye Christopher Robin",
   "Year": 2017,
   "Director": "Simon Curtis",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 103
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "Gravity",
   "Year": 2013,
   "Director": "Alfonso Cuarón",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 87
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "Hacksaw Ridge",
   "Year": 2016,
   "Director": "Mel Gibson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 139
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
+  "Medium": "BluRay",
+  "Title": "Hail, Caesar!",
+  "Year": 2016,
+  "Director": "Ethan Coen, Joel Coen",
+  "Seen": "NO",
+  "Franchise": "NO",
+  "Length": 106
+ },
+ {
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "Hanna",
   "Year": 2011,
   "Director": "Joe Wright",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "Hans Zimmer: Live in Prague",
   "Year": 2017,
   "Director": "Tim Van Someren",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 138
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "Happiest Season",
   "Year": 2020,
   "Director": "Clea DuVall",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 98
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "Harry Potter and the Chamber of Secrets",
   "Year": 2002,
   "Director": "Chris Columbus",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 153
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "Harry Potter and the Deathly Hallows - Part 1",
   "Year": 2010,
   "Director": "David Yates",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 140
  },
  {
   "Type": "Series",
@@ -977,107 +923,96 @@
   "Title": "Harry Potter and the Deathly Hallows - Part 2",
   "Year": 2011,
   "Director": "David Yates",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 125
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Harry Potter and the Goblet of Fire",
   "Year": 2005,
   "Director": "Mike Newell",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 151
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Harry Potter and the Half-Blood Prince",
   "Year": 2009,
   "Director": "David Yates",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 147
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Harry Potter and the Order of the Pheonix",
   "Year": 2007,
   "Director": "David Yates",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 133
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Harry Potter and the Philosopher's Stone",
   "Year": 2001,
   "Director": "Chris Columbus",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 147
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Harry Potter and the Prisoner of Azkaban",
   "Year": 2004,
   "Director": "Alfonso Cuarón",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 136
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Hereditary",
   "Year": 2018,
   "Director": "Ari Aster",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 127
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Hidden Figures",
   "Year": 2016,
   "Director": "Theodore Melfi",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 127
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "House [Season 1]",
   "Year": 2006,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1085,11 +1020,10 @@
   "Title": "House [Season 2]",
   "Year": 2007,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1097,11 +1031,10 @@
   "Title": "House [Season 3]",
   "Year": 2008,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1109,11 +1042,10 @@
   "Title": "House [Season 4]",
   "Year": 2008,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1121,11 +1053,10 @@
   "Title": "House [Season 5]",
   "Year": 2010,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1133,11 +1064,10 @@
   "Title": "House [Season 6]",
   "Year": 2011,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1145,11 +1075,10 @@
   "Title": "House [Season 7]",
   "Year": 2011,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1157,11 +1086,10 @@
   "Title": "House [Season 8]",
   "Year": 2012,
   "Director": "David Shore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -1169,11 +1097,10 @@
   "Title": "House of Cards [Season 1]",
   "Year": 2013,
   "Director": "Michael Dobbs, Andrew Davies, Beau Willimon",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 60
  },
  {
   "Type": "Movie",
@@ -1181,11 +1108,9 @@
   "Title": "House of Gucci",
   "Year": 2021,
   "Director": "Ridley Scott",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 152
  },
  {
   "Type": "Movie",
@@ -1193,11 +1118,9 @@
   "Title": "Hustlers",
   "Year": 2019,
   "Director": "Lorene Scafaria",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -1205,11 +1128,9 @@
   "Title": "I, Tonya",
   "Year": 2017,
   "Director": "Craig Gillespie",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
  },
  {
   "Type": "Movie",
@@ -1217,11 +1138,9 @@
   "Title": "In Time",
   "Year": 2011,
   "Director": "Andrew Niccol",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 105
  },
  {
   "Type": "Movie",
@@ -1229,11 +1148,9 @@
   "Title": "Inception",
   "Year": 2010,
   "Director": "Christopher Nolan",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 148
  },
  {
   "Type": "Movie",
@@ -1241,11 +1158,10 @@
   "Title": "Indiana Jones and the Kingdom of the Crystal Skull",
   "Year": 2008,
   "Director": "Steven Spielberg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 117
  },
  {
   "Type": "Movie",
@@ -1253,11 +1169,10 @@
   "Title": "Indiana Jones and the Last Crucade",
   "Year": 1989,
   "Director": "Steven Spielberg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 122
  },
  {
   "Type": "Movie",
@@ -1265,11 +1180,10 @@
   "Title": "Indiana Jones and the Temple of Doom",
   "Year": 1984,
   "Director": "Steven Spielberg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
   "Type": "Movie",
@@ -1277,11 +1191,9 @@
   "Title": "Inside Out",
   "Year": 2015,
   "Director": "Pete Docter",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
   "Type": "Movie",
@@ -1289,11 +1201,9 @@
   "Title": "Instant Family",
   "Year": 2018,
   "Director": "Sean Anders",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 113
  },
  {
   "Type": "Movie",
@@ -1301,11 +1211,10 @@
   "Title": "Insurgent",
   "Year": 2015,
   "Director": "Robert Schwentke",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 115
  },
  {
   "Type": "Movie",
@@ -1313,11 +1222,9 @@
   "Title": "Into the Woods",
   "Year": 2014,
   "Director": "Rob Marshall",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
  },
  {
   "Type": "Movie",
@@ -1325,11 +1232,9 @@
   "Title": "Isle of Dogs",
   "Year": 2018,
   "Director": "Wes Anderson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 97
  },
  {
   "Type": "Movie",
@@ -1337,11 +1242,9 @@
   "Title": "Jackie",
   "Year": 2016,
   "Director": "Pablo Larrain",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 96
  },
  {
   "Type": "Movie",
@@ -1349,11 +1252,9 @@
   "Title": "John Williams: Live in Vienna",
   "Year": 2020,
   "Director": "Michael Beyer",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 155
  },
  {
   "Type": "Movie",
@@ -1361,11 +1262,10 @@
   "Title": "Johnny English",
   "Year": 2003,
   "Director": "Peter Howitt",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 84
  },
  {
   "Type": "Movie",
@@ -1373,11 +1273,10 @@
   "Title": "Johnny English Reborn",
   "Year": 2011,
   "Director": "Oliver Parker",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 97
  },
  {
   "Type": "Movie",
@@ -1385,11 +1284,9 @@
   "Title": "Jojo Rabbit",
   "Year": 2019,
   "Director": "Taika Waititi",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 108
  },
  {
   "Type": "Movie",
@@ -1397,11 +1294,9 @@
   "Title": "Joker",
   "Year": 2019,
   "Director": "Todd Phillips",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 122
  },
  {
   "Type": "Movie",
@@ -1409,11 +1304,10 @@
   "Title": "Journey to the Center of the Earth",
   "Year": 2008,
   "Director": "Eric Brevig",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 89
  },
  {
   "Type": "Movie",
@@ -1421,11 +1315,9 @@
   "Title": "Judas and the Black Messiah",
   "Year": 2021,
   "Director": "Shaka King",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
  },
  {
   "Type": "Movie",
@@ -1433,11 +1325,10 @@
   "Title": "Jumanji: Welcome to the Jungle",
   "Year": 2017,
   "Director": "Jake Kasdan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
   "Type": "Movie",
@@ -1445,11 +1336,9 @@
   "Title": "Jumper",
   "Year": 2008,
   "Director": "Doug Liman",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 85
  },
  {
   "Type": "Movie",
@@ -1457,11 +1346,10 @@
   "Title": "Jurassic Park",
   "Year": 1993,
   "Director": "Steven Spielberg",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 127
  },
  {
   "Type": "Movie",
@@ -1469,11 +1357,10 @@
   "Title": "Jurassic Park III",
   "Year": 2001,
   "Director": "Joe Johnston",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 96
  },
  {
   "Type": "Movie",
@@ -1481,11 +1368,10 @@
   "Title": "Jurassic World",
   "Year": 2015,
   "Director": "Colin Trevorrow",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 124
  },
  {
   "Type": "Movie",
@@ -1493,11 +1379,10 @@
   "Title": "Jurassic World: Fallen Kingdom",
   "Year": 2018,
   "Director": "J.A. Bayona",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 129
  },
  {
   "Type": "Movie",
@@ -1505,11 +1390,9 @@
   "Title": "Justice League",
   "Year": 2017,
   "Director": "Zack Snyder",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
  },
  {
   "Type": "Movie",
@@ -1517,11 +1400,10 @@
   "Title": "Kingsman: The Golden Circle",
   "Year": 2017,
   "Director": "Matthew Vaughn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 135
  },
  {
   "Type": "Movie",
@@ -1529,23 +1411,20 @@
   "Title": "Kingsman: The Secret Service",
   "Year": 2014,
   "Director": "Matthew Vaughn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 123
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "Knives Out",
   "Year": 2019,
   "Director": "Rian Johnson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 131
  },
  {
   "Type": "Movie",
@@ -1553,11 +1432,9 @@
   "Title": "Kong: Skull Island",
   "Year": 2017,
   "Director": "Jordan Vogt-Roberts",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
   "Type": "Movie",
@@ -1565,11 +1442,9 @@
   "Title": "La La Land",
   "Year": 2016,
   "Director": "Damien Chazelle",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 123
  },
  {
   "Type": "Movie",
@@ -1577,11 +1452,9 @@
   "Title": "Lady Bird",
   "Year": 2017,
   "Director": "Greta Gerwig",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 90
  },
  {
   "Type": "Movie",
@@ -1589,11 +1462,9 @@
   "Title": "Last Christmas",
   "Year": 2019,
   "Director": "Paul Feig",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 98
  },
  {
   "Type": "Movie",
@@ -1601,11 +1472,9 @@
   "Title": "Late Night",
   "Year": 2019,
   "Director": "Nisha Ganatra",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 97
  },
  {
   "Type": "Movie",
@@ -1613,11 +1482,9 @@
   "Title": "Life of Pi",
   "Year": 2012,
   "Director": "Ang Lee",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 127
  },
  {
   "Type": "Movie",
@@ -1625,11 +1492,9 @@
   "Title": "Lion",
   "Year": 2016,
   "Director": "Garth Davis",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 119
  },
  {
   "Type": "Movie",
@@ -1637,11 +1502,9 @@
   "Title": "Little Miss Sunshine",
   "Year": 2006,
   "Director": "Jonathan Dayton, Valerie Faris",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 99
  },
  {
   "Type": "Movie",
@@ -1649,11 +1512,9 @@
   "Title": "Looper",
   "Year": 2012,
   "Director": "Rian Johnson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
   "Type": "Movie",
@@ -1661,11 +1522,9 @@
   "Title": "Lost in Translation",
   "Year": 2004,
   "Director": "Sofia Coppola",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 97
  },
  {
   "Type": "Movie",
@@ -1673,11 +1532,9 @@
   "Title": "Ma",
   "Year": 2019,
   "Director": "Tate Taylor",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 95
  },
  {
   "Type": "Movie",
@@ -1685,11 +1542,10 @@
   "Title": "Mad Max: Fury Road",
   "Year": 2015,
   "Director": "George Miller",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
  },
  {
   "Type": "Movie",
@@ -1697,11 +1553,10 @@
   "Title": "Maleficent",
   "Year": 2014,
   "Director": "Robert Stromberg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 93
  },
  {
   "Type": "Movie",
@@ -1709,11 +1564,10 @@
   "Title": "Mamma Mia!",
   "Year": 2008,
   "Director": "Phyllida Lloyd",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 104
  },
  {
   "Type": "Movie",
@@ -1721,11 +1575,10 @@
   "Title": "Mary Poppins",
   "Year": 1964,
   "Director": "Robert Stevenson",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 134
  },
  {
   "Type": "Movie",
@@ -1733,11 +1586,10 @@
   "Title": "Mary Poppins Returns",
   "Year": 2018,
   "Director": "Rob Marshall",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 125
  },
  {
   "Type": "Movie",
@@ -1745,11 +1597,10 @@
   "Title": "Maze Runner: The Scorch Trials",
   "Year": 2015,
   "Director": "Wes Ball",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 126
  },
  {
   "Type": "Movie",
@@ -1757,23 +1608,21 @@
   "Title": "Minions",
   "Year": 2015,
   "Director": "Kyle Balda, Pierre Coffin",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Miss Congeniality",
   "Year": 2000,
   "Director": "Donald Petrie",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 106
  },
  {
   "Type": "Movie",
@@ -1781,11 +1630,10 @@
   "Title": "Miss Congeniality 2",
   "Year": 2005,
   "Director": "John Pasquin",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
   "Type": "Movie",
@@ -1793,11 +1641,9 @@
   "Title": "Miss Sloane",
   "Year": 2016,
   "Director": "John Madden",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 126
  },
  {
   "Type": "Movie",
@@ -1805,11 +1651,10 @@
   "Title": "Mission: Impossible - Fallout",
   "Year": 2018,
   "Director": "Christopher McQuarrie",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 141
  },
  {
   "Type": "Movie",
@@ -1817,11 +1662,10 @@
   "Title": "Mission: Impossible - Rogue Nation",
   "Year": 2015,
   "Director": "Christopher McQuarrie",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 126
  },
  {
   "Type": "Movie",
@@ -1829,11 +1673,9 @@
   "Title": "Molly's Game",
   "Year": 2017,
   "Director": "Aaron Sorkin",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 134
  },
  {
   "Type": "Movie",
@@ -1841,11 +1683,21 @@
   "Title": "Monsters University",
   "Year": 2013,
   "Director": "Dan Scanion",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "YES",
+  "Length": 100
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Monsters, Inc.",
+  "Year": 2001,
+  "Director": "Pete Docter",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "YES",
+  "Length": 88
  },
  {
   "Type": "Movie",
@@ -1853,11 +1705,9 @@
   "Title": "Mortal Engines",
   "Year": 2018,
   "Director": "Christian Rivers",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 123
  },
  {
   "Type": "Movie",
@@ -1865,11 +1715,9 @@
   "Title": "Mr. Bean",
   "Year": 1990,
   "Director": "Rowan Atkinson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 25
  },
  {
   "Type": "Movie",
@@ -1877,11 +1725,9 @@
   "Title": "Mr. Bean's Holiday",
   "Year": 2007,
   "Director": "Steve Bendelack",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 86
  },
  {
   "Type": "Movie",
@@ -1889,119 +1735,101 @@
   "Title": "Mud",
   "Year": 2012,
   "Director": "Jeff Nichols",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 125
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Murder by Death",
   "Year": 1976,
   "Director": "Robert Moore",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Murder on the Orient Express",
   "Year": 2017,
   "Director": "Kenneth Branagh",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Murder on the Orient Express",
   "Year": 1974,
   "Director": "Sidney Lumet",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 122
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Mysteries of the Deep",
   "Year": 2013,
   "Director": "Danny Mauro",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Night at the Museum",
   "Year": 2006,
   "Director": "Shawn Levy",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 100
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Night at the Museum: Battle of the Smithsonian",
   "Year": 2009,
   "Director": "Shawn Levy",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 104
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Oblivion",
   "Year": 2013,
   "Director": "Joseph Kosinski",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 125
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Ocean's Eight",
   "Year": 2018,
   "Director": "Gary Ross",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "One Flew Over the Cuckoo's Nest",
   "Year": 1975,
   "Director": "Milos Forman",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 128
  },
  {
   "Type": "Movie",
@@ -2009,11 +1837,10 @@
   "Title": "One Tree Hill [Season 1]",
   "Year": 2003,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2021,11 +1848,10 @@
   "Title": "One Tree Hill [Season 2]",
   "Year": 2004,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2033,11 +1859,10 @@
   "Title": "One Tree Hill [Season 3]",
   "Year": 2005,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2045,11 +1870,10 @@
   "Title": "One Tree Hill [Season 4]",
   "Year": 2006,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2057,11 +1881,10 @@
   "Title": "One Tree Hill [Season 5]",
   "Year": 2008,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2069,11 +1892,10 @@
   "Title": "One Tree Hill [Season 6]",
   "Year": 2008,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2081,11 +1903,10 @@
   "Title": "One Tree Hill [Season 7]",
   "Year": 2009,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2093,11 +1914,10 @@
   "Title": "One Tree Hill [Season 8]",
   "Year": 2010,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2105,11 +1925,10 @@
   "Title": "One Tree Hill [Season 9]",
   "Year": 2012,
   "Director": "Mark Schwahn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 40
  },
  {
   "Type": "Movie",
@@ -2117,11 +1936,9 @@
   "Title": "Ophelia",
   "Year": 2018,
   "Director": "Claire McCarthy",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
   "Type": "Movie",
@@ -2129,11 +1946,9 @@
   "Title": "Parasite",
   "Year": 2019,
   "Director": "Bong Joon Ho",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 127
  },
  {
   "Type": "Movie",
@@ -2141,11 +1956,9 @@
   "Title": "Passengers",
   "Year": 2016,
   "Director": "Morten Tyldum",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 116
  },
  {
   "Type": "Movie",
@@ -2153,11 +1966,10 @@
   "Title": "Percy Jackson & the Olympians: The Lightning Thief",
   "Year": 2010,
   "Director": "Chris Columbus",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
   "Type": "Movie",
@@ -2165,11 +1977,10 @@
   "Title": "Percy Jackson: Sea of Monsters",
   "Year": 2013,
   "Director": "Thor Freudenthal",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 102
  },
  {
   "Type": "Movie",
@@ -2177,11 +1988,10 @@
   "Title": "Peter Rabbit",
   "Year": 2018,
   "Director": "Will Gluck",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
   "Type": "Movie",
@@ -2189,11 +1999,10 @@
   "Title": "Pitch Perfect",
   "Year": 2012,
   "Director": "Jason Moore",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -2201,11 +2010,10 @@
   "Title": "Pitch Perfect 2",
   "Year": 2015,
   "Director": "Elizabeth Banks",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
   "Type": "Movie",
@@ -2213,11 +2021,10 @@
   "Title": "Pitch Perfect 3",
   "Year": 2017,
   "Director": "Trish Sie",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 89
  },
  {
   "Type": "Movie",
@@ -2225,11 +2032,9 @@
   "Title": "Planes, Trains & Automobiles",
   "Year": 1987,
   "Director": "John Hughes",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 89
  },
  {
   "Type": "Movie",
@@ -2237,11 +2042,10 @@
   "Title": "Planet of the Apes",
   "Year": 1968,
   "Director": "Franklin J. Schaffner",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -2249,11 +2053,9 @@
   "Title": "Pride and Prejudice and Zombies",
   "Year": 2016,
   "Director": "Burr Steers",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 104
  },
  {
   "Type": "Movie",
@@ -2261,11 +2063,9 @@
   "Title": "Project Almanac",
   "Year": 2015,
   "Director": "Dean Isrealite",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 106
  },
  {
   "Type": "Movie",
@@ -2273,11 +2073,10 @@
   "Title": "Quantum of Solace",
   "Year": 2008,
   "Director": "Marc Forster",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 106
  },
  {
   "Type": "Movie",
@@ -2285,11 +2084,10 @@
   "Title": "Qu'est-ce qu'on a fait au Bon Dieu?",
   "Year": 2014,
   "Director": "Philippe de Chauveron",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 93
  },
  {
   "Type": "Movie",
@@ -2297,11 +2095,10 @@
   "Title": "Raiders of the Lost Ark",
   "Year": 1981,
   "Director": "Steven Spielberg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 111
  },
  {
   "Type": "Movie",
@@ -2309,11 +2106,9 @@
   "Title": "Rat Race",
   "Year": 2001,
   "Director": "Jerry Zucker",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -2321,11 +2116,9 @@
   "Title": "Ratatouille",
   "Year": 2007,
   "Director": "Brad Bird",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 108
  },
  {
   "Type": "Movie",
@@ -2333,11 +2126,9 @@
   "Title": "Ready Player One",
   "Year": 2018,
   "Director": "Steven Spielberg",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 140
  },
  {
   "Type": "Movie",
@@ -2345,11 +2136,9 @@
   "Title": "Red Sparrow",
   "Year": 2018,
   "Director": "Francis Lawrence",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 134
  },
  {
   "Type": "Movie",
@@ -2357,11 +2146,9 @@
   "Title": "Richard Jewell",
   "Year": 2019,
   "Director": "Clint Eastwood",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 131
  },
  {
   "Type": "Movie",
@@ -2369,11 +2156,10 @@
   "Title": "Rise of the Planet of the Apes",
   "Year": 2011,
   "Director": "Rupert Wyatt",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 105
  },
  {
   "Type": "Movie",
@@ -2381,11 +2167,9 @@
   "Title": "Rocketman",
   "Year": 2019,
   "Director": "Dexter Fletcher",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 116
  },
  {
   "Type": "Movie",
@@ -2393,11 +2177,9 @@
   "Title": "Room",
   "Year": 2015,
   "Director": "Lenny Abrahamson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 113
  },
  {
   "Type": "Movie",
@@ -2405,11 +2187,9 @@
   "Title": "Sanctum",
   "Year": 2011,
   "Director": "Alister Grierson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 105
  },
  {
   "Type": "Movie",
@@ -2417,11 +2197,9 @@
   "Title": "Shark Tale",
   "Year": 2004,
   "Director": "Rob Letterman, Bibo Bergeron, Vicky Jenson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 86
  },
  {
   "Type": "Movie",
@@ -2429,11 +2207,9 @@
   "Title": "Sherlock Holmes and the Case of the Silk Stockings",
   "Year": 2004,
   "Director": "Simon Cellan Jones",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 100
  },
  {
   "Type": "Movie",
@@ -2441,11 +2217,9 @@
   "Title": "Shutter Island",
   "Year": 2010,
   "Director": "Martin Scorsese",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 137
  },
  {
   "Type": "Movie",
@@ -2453,11 +2227,10 @@
   "Title": "Sicario",
   "Year": 2015,
   "Director": "Denis Villeneuve",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 116
  },
  {
   "Type": "Movie",
@@ -2465,11 +2238,10 @@
   "Title": "Sing",
   "Year": 2016,
   "Director": "Garth Jennings",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 104
  },
  {
   "Type": "Movie",
@@ -2477,11 +2249,9 @@
   "Title": "Singin' in the Rain",
   "Year": 1952,
   "Director": "Stanley Donen, Gene Kelly",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 99
  },
  {
   "Type": "Movie",
@@ -2489,59 +2259,54 @@
   "Title": "Sister Act",
   "Year": 1992,
   "Director": "Emile Ardolino",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 96
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Sister Act 2: Back in the Habit",
   "Year": 1993,
   "Director": "Bill Duke",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 102
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Skyfall",
   "Year": 2012,
   "Director": "Sam Mendes",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 143
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Spectre",
   "Year": 2015,
   "Director": "Sam Mendes",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 148
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Spider-Man",
   "Year": 2002,
   "Director": "Sam Raimi",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 116
  },
  {
   "Type": "Movie",
@@ -2549,47 +2314,43 @@
   "Title": "Spider-Man 2",
   "Year": 2004,
   "Director": "Sam Raimi",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 122
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Spider-Man 3",
   "Year": 2007,
   "Director": "Sam Raimi",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 133
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Spider-Man: Homecoming",
   "Year": 2017,
   "Director": "Jon Watts",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 128
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Spider-Man: Into the Spider-Verse",
   "Year": 2018,
   "Director": "Bob Persichetti, Peter Ramsey",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 112
  },
  {
   "Type": "Movie",
@@ -2597,11 +2358,10 @@
   "Title": "Split",
   "Year": 2016,
   "Director": "M. Night Shyamalan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 112
  },
  {
   "Type": "Movie",
@@ -2609,11 +2369,10 @@
   "Title": "Spongebob Squarepants [Season 1]",
   "Year": 1999,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2621,11 +2380,10 @@
   "Title": "Spongebob Squarepants [Season 2]",
   "Year": 2000,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2633,11 +2391,10 @@
   "Title": "Spongebob Squarepants [Season 3]",
   "Year": 2001,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2645,11 +2402,10 @@
   "Title": "Spongebob Squarepants [Season 4]",
   "Year": 2005,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2657,11 +2413,10 @@
   "Title": "Spongebob Squarepants [Season 5]",
   "Year": 2007,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2669,11 +2424,10 @@
   "Title": "Spongebob Squarepants [Season 6]",
   "Year": 2008,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2681,11 +2435,10 @@
   "Title": "Spongebob Squarepants [Season 7]",
   "Year": 2009,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2693,11 +2446,10 @@
   "Title": "Spongebob Squarepants [Season 8]",
   "Year": 2011,
   "Director": "Stephen Hillenburg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 10
  },
  {
   "Type": "Movie",
@@ -2705,11 +2457,10 @@
   "Title": "Star Wars: Episode IX - The Rise of Skywalker",
   "Year": 2019,
   "Director": "J.J. Abrams",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 141
  },
  {
   "Type": "Movie",
@@ -2717,11 +2468,10 @@
   "Title": "Star Wars: Episode VII - The Force Awakens",
   "Year": 2015,
   "Director": "J.J. Abrams",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 135
  },
  {
   "Type": "Movie",
@@ -2729,11 +2479,10 @@
   "Title": "Star Wars: Episode VIII - The Last Jedi",
   "Year": 2017,
   "Director": "Rian Johnson",
+  "Seen": "YES",
   "Franchise": "YES",
-  "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Franchise Complete": "NO",
+  "Length": 152
  },
  {
   "Type": "Movie",
@@ -2741,11 +2490,10 @@
   "Title": "Step Up",
   "Year": 2006,
   "Director": "Anne Fletcher",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 98
  },
  {
   "Type": "Movie",
@@ -2753,11 +2501,10 @@
   "Title": "Step Up 2 the Streets",
   "Year": 2008,
   "Director": "Jon M. Chu",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 98
  },
  {
   "Type": "Movie",
@@ -2765,11 +2512,10 @@
   "Title": "Step Up 3D",
   "Year": 2010,
   "Director": "Jon M. Chu",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 103
  },
  {
   "Type": "Movie",
@@ -2777,11 +2523,10 @@
   "Title": "Step Up All In",
   "Year": 2014,
   "Director": "Trish Sie",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 108
  },
  {
   "Type": "Movie",
@@ -2789,11 +2534,10 @@
   "Title": "Step Up Revolution",
   "Year": 2012,
   "Director": "Scott Speer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 95
  },
  {
   "Type": "Movie",
@@ -2801,11 +2545,9 @@
   "Title": "Still Alice",
   "Year": 2014,
   "Director": "Richard Glatzer, Wash Westmoreland",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 97
  },
  {
   "Type": "Movie",
@@ -2813,11 +2555,9 @@
   "Title": "Stronger",
   "Year": 2017,
   "Director": "David Gordon Green",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 114
  },
  {
   "Type": "Movie",
@@ -2825,11 +2565,9 @@
   "Title": "Submergence",
   "Year": 2017,
   "Director": "Wim Wenders",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -2837,11 +2575,9 @@
   "Title": "Suicide Squad",
   "Year": 2016,
   "Director": "David Ayer",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
   "Type": "Movie",
@@ -2849,11 +2585,9 @@
   "Title": "Suspicion",
   "Year": 1941,
   "Director": "Alfred Hitchcock",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 95
  },
  {
   "Type": "Movie",
@@ -2861,11 +2595,9 @@
   "Title": "Taxi Teheran",
   "Year": 2015,
   "Director": "Jafar Panahi",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 79
  },
  {
   "Type": "Movie",
@@ -2873,11 +2605,9 @@
   "Title": "Tenet",
   "Year": 2020,
   "Director": "Christopher Nolan",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 144
  },
  {
   "Type": "Movie",
@@ -2885,11 +2615,9 @@
   "Title": "Terminal",
   "Year": 2018,
   "Director": "Vaughn Stein",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
   "Type": "Movie",
@@ -2897,11 +2625,9 @@
   "Title": "The Accountant",
   "Year": 2016,
   "Director": "Gavin O'Connor",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 122
  },
  {
   "Type": "Movie",
@@ -2909,11 +2635,9 @@
   "Title": "The Aftermath",
   "Year": 2019,
   "Director": "James Kent",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 104
  },
  {
   "Type": "Movie",
@@ -2921,11 +2645,10 @@
   "Title": "The Amazing Spider-Man",
   "Year": 2012,
   "Director": "Marc Webb",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 131
  },
  {
   "Type": "Movie",
@@ -2933,11 +2656,10 @@
   "Title": "The Amazing Spider-Man 2",
   "Year": 2014,
   "Director": "Marc Webb",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 136
  },
  {
   "Type": "Movie",
@@ -2945,11 +2667,19 @@
   "Title": "The Big Lebowski",
   "Year": 1998,
   "Director": "Ethan Coen, Joel Coen",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "The Breakfast Club",
+  "Year": 1985,
+  "Director": "John Hughes",
+  "Seen": "YES",
+  "Franchise": "NO",
+  "Length": 93
  },
  {
   "Type": "Movie",
@@ -2957,11 +2687,9 @@
   "Title": "The Curious Case of Benjamin Button",
   "Year": 2009,
   "Director": "David Fincher",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 159
  },
  {
   "Type": "Movie",
@@ -2969,11 +2697,10 @@
   "Title": "The Da Vinci Code",
   "Year": 2006,
   "Director": "Ron Howard",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 167
  },
  {
   "Type": "Movie",
@@ -2981,11 +2708,10 @@
   "Title": "The Dark Knight",
   "Year": 2008,
   "Director": "Christopher Nolan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 146
  },
  {
   "Type": "Movie",
@@ -2993,11 +2719,10 @@
   "Title": "The Dark Knight Rises",
   "Year": 2012,
   "Director": "Christopher Nolan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 160
  },
  {
   "Type": "Movie",
@@ -3005,11 +2730,9 @@
   "Title": "The Edge of Tomorrow",
   "Year": 2014,
   "Director": "Doug Liman",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 113
  },
  {
   "Type": "Movie",
@@ -3017,11 +2740,9 @@
   "Title": "The Farewell",
   "Year": 2019,
   "Director": "Lulu Wang",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 96
  },
  {
   "Type": "Movie",
@@ -3029,11 +2750,9 @@
   "Title": "The Favourite",
   "Year": 2018,
   "Director": "Yorgos Lanthimos",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 115
  },
  {
   "Type": "Movie",
@@ -3041,11 +2760,9 @@
   "Title": "The Fighter",
   "Year": 2010,
   "Director": "David O. Russell",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 116
  },
  {
   "Type": "Movie",
@@ -3053,23 +2770,63 @@
   "Title": "The Front Runner",
   "Year": 2018,
   "Director": "Jason Reitman",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 109
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "The Good Place [Season 1]",
+  "Year": 2016,
+  "Director": "Michael Schur",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "YES",
+  "Length": 22
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "The Good Place [Season 2]",
+  "Year": 2017,
+  "Director": "Michael Schur",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "YES",
+  "Length": 22
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "The Good Place [Season 3]",
+  "Year": 2018,
+  "Director": "Michael Schur",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "YES",
+  "Length": 22
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "The Good Place [Season 4]",
+  "Year": 2019,
+  "Director": "Michael Schur",
+  "Seen": "NO",
+  "Franchise": "YES",
+  "Franchise Complete": "YES",
+  "Length": 22
+ },
+ {
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Goonies",
   "Year": 1985,
   "Director": "Richard Donner",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
   "Type": "Movie",
@@ -3077,11 +2834,9 @@
   "Title": "The Grand Budapest Hotel",
   "Year": 2014,
   "Director": "Wes Anderson",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 100
  },
  {
   "Type": "Movie",
@@ -3089,11 +2844,9 @@
   "Title": "The Greatest Showman",
   "Year": 2017,
   "Director": "Michael Gracey",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 105
  },
  {
   "Type": "Movie",
@@ -3101,11 +2854,9 @@
   "Title": "The Help",
   "Year": 2011,
   "Director": "Tate Taylor",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 140
  },
  {
   "Type": "Movie",
@@ -3113,11 +2864,9 @@
   "Title": "The High Note",
   "Year": 2020,
   "Director": "Nisha Ganatra",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 113
  },
  {
   "Type": "Movie",
@@ -3125,11 +2874,9 @@
   "Title": "The Holiday",
   "Year": 2006,
   "Director": "Nancy Meyers",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 128
  },
  {
   "Type": "Movie",
@@ -3137,215 +2884,196 @@
   "Title": "The Hound of the Baskervilles",
   "Year": 2002,
   "Director": "David Attwood",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 91
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The House with a Clock in its Walls",
   "Year": 2018,
   "Director": "Eli Roth",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 101
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Hunger Games",
   "Year": 2012,
   "Director": "Gary Ross",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 137
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Hunger Games: Catching Fire",
   "Year": 2013,
   "Director": "Francis Lawrence",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 141
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Hunger Games: Mockingjay - Part 1",
   "Year": 2014,
   "Director": "Francis Lawrence",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Hunger Games: Mockingjay - Part 2",
   "Year": 2015,
   "Director": "Francis Lawrence",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 132
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Huntsman: Winter's War",
   "Year": 2016,
   "Director": "Cedric Nicolas-Troyan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 109
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Hustle",
   "Year": 2019,
   "Director": "Chris Addison",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 90
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Imitation Game",
   "Year": 2014,
   "Director": "Morten Tyldum",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Intern",
   "Year": 2015,
   "Director": "Nancy Meyers",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 117
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "The Karate Kid",
   "Year": 2010,
   "Director": "Harald Zwart",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 140
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Last King of Scotland",
   "Year": 2007,
   "Director": "Kevin Macdonald",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "The Legend of Tarzan",
   "Year": 2016,
   "Director": "David Yates",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 110
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "The Light Between Oceans",
   "Year": 2016,
   "Director": "Derek Cianfrance",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 133
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Lost World: Jurassic Park",
   "Year": 1997,
   "Director": "Steven Spielberg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 129
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "BluRay",
   "Title": "The Martian",
   "Year": 2015,
   "Director": "Ridley Scott",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 142
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "The Mauritanian",
+  "Year": 2021,
+  "Director": "Kevin Macdonald",
+  "Seen": "YES",
+  "Franchise": "NO",
+  "Length": 124
+ },
+ {
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Maze Runner",
   "Year": 2014,
   "Director": "Wes Ball",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 109
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "The Mirror Crack'd",
   "Year": 1980,
   "Director": "Guy Hamilton",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 101
  },
  {
   "Type": "Movie",
@@ -3353,11 +3081,19 @@
   "Title": "The Mummy",
   "Year": 1999,
   "Director": "Stephen Sommers",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 120
+ },
+ {
+  "Type": "Movie",
+  "Medium": "BluRay",
+  "Title": "The Night Manager",
+  "Year": 2016,
+  "Director": "David Farr",
+  "Seen": "YES",
+  "Franchise": "NO",
+  "Length": 60
  },
  {
   "Type": "Movie",
@@ -3365,11 +3101,9 @@
   "Title": "The Nutcracker and the Four Realms",
   "Year": 2018,
   "Director": "Lasse Hallström",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 99
  },
  {
   "Type": "Movie",
@@ -3377,11 +3111,10 @@
   "Title": "The Second Best Exotic Marigold Hotel",
   "Year": 2015,
   "Director": "John Madden",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 119
  },
  {
   "Type": "Movie",
@@ -3389,11 +3122,9 @@
   "Title": "The Shape of Water",
   "Year": 2017,
   "Director": "Guillermo del Toro",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
   "Type": "Movie",
@@ -3401,11 +3132,9 @@
   "Title": "The Simpsons Movie",
   "Year": 2007,
   "Director": "David Silverman",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 83
  },
  {
   "Type": "Movie",
@@ -3413,23 +3142,29 @@
   "Title": "The Sound of Music",
   "Year": 1965,
   "Director": "Robert Wise",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 168
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "The SpongeBob SquarePants Movie",
   "Year": 2004,
   "Director": "Stephen Hillenburg, Mark Osborne",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 83
+ },
+ {
+  "Type": "Movie",
+  "Medium": "BluRay",
+  "Title": "The Suicide Squad",
+  "Year": 2021,
+  "Director": "James Gunn",
+  "Seen": "YES",
+  "Franchise": "NO",
+  "Length": 132
  },
  {
   "Type": "Movie",
@@ -3437,11 +3172,9 @@
   "Title": "The Theory of Everything",
   "Year": 2014,
   "Director": "James Marsh",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
   "Type": "Movie",
@@ -3449,11 +3182,9 @@
   "Title": "The Truman Show",
   "Year": 1998,
   "Director": "Peter Weir",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 99
  },
  {
   "Type": "Movie",
@@ -3461,23 +3192,30 @@
   "Title": "The Zookeeper's Wife",
   "Year": 2017,
   "Director": "Niki Caro",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 122
  },
  {
   "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "They",
+  "Year": 2001,
+  "Director": "Robert Harmon",
+  "Seen": "NO",
+  "Franchise": "NO",
+  "Length": 90
+ },
+ {
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Thor: Ragnarok",
   "Year": 2017,
   "Director": "Taika Waititi",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 130
  },
  {
   "Type": "Movie",
@@ -3485,11 +3223,9 @@
   "Title": "Tomb Raider",
   "Year": 2018,
   "Director": "Roar Uthaug",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 118
  },
  {
   "Type": "Movie",
@@ -3497,11 +3233,43 @@
   "Title": "Top Gun",
   "Year": 1986,
   "Director": "Tony Scott",
-  "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Seen": "NO",
+  "Franchise": "YES",
+  "Franchise Complete": "NO",
+  "Length": 105
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Toy Story",
+  "Year": 1995,
+  "Director": "John Lasseter",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "NO",
+  "Length": 78
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Toy Story 2",
+  "Year": 1999,
+  "Director": "John Lasseter",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "NO",
+  "Length": 89
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Toy Story 3",
+  "Year": 2010,
+  "Director": "Lee Unkrich",
+  "Seen": "YES",
+  "Franchise": "YES",
+  "Franchise Complete": "NO",
+  "Length": 98
  },
  {
   "Type": "Movie",
@@ -3509,11 +3277,10 @@
   "Title": "Trolls",
   "Year": 2016,
   "Director": "Mike Mitchell",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 88
  },
  {
   "Type": "Movie",
@@ -3521,11 +3288,9 @@
   "Title": "True Grit",
   "Year": 2010,
   "Director": "Ethan Coen, Joel Coen",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 106
  },
  {
   "Type": "Movie",
@@ -3533,11 +3298,10 @@
   "Title": "Unbreakable",
   "Year": 2000,
   "Director": "M. Night Shyamalan",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 102
  },
  {
   "Type": "Movie",
@@ -3545,23 +3309,19 @@
   "Title": "Up in the Air",
   "Year": 2009,
   "Director": "Jason Reitman",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 105
  },
  {
-  "Type": "Special",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "Us",
   "Year": 2019,
   "Director": "Jordan Peele",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 111
  },
  {
   "Type": "Movie",
@@ -3569,11 +3329,10 @@
   "Title": "Venom",
   "Year": 2018,
   "Director": "Ruben Fleischer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 108
  },
  {
   "Type": "Movie",
@@ -3581,11 +3340,9 @@
   "Title": "Vice",
   "Year": 2018,
   "Director": "Adam McKay",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 129
  },
  {
   "Type": "Movie",
@@ -3593,11 +3350,9 @@
   "Title": "Waking Ned Devine",
   "Year": 1998,
   "Director": "Kirk Jones",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 87
  },
  {
   "Type": "Movie",
@@ -3605,11 +3360,10 @@
   "Title": "War for the Planet of the Apes",
   "Year": 2017,
   "Director": "Matt Reeves",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "NO",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 140
  },
  {
   "Type": "Movie",
@@ -3617,11 +3371,9 @@
   "Title": "Watchmen",
   "Year": 2019,
   "Director": "Damon Lindelof",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 56
  },
  {
   "Type": "Movie",
@@ -3629,23 +3381,19 @@
   "Title": "We're the Millers",
   "Year": 2013,
   "Director": "Rawson Marshall Thurber",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 106
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "Where'd you go, Bernadette",
   "Year": 2019,
   "Director": "Richard Linklater",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 105
  },
  {
   "Type": "Movie",
@@ -3653,11 +3401,9 @@
   "Title": "Whiplash",
   "Year": 2014,
   "Director": "Damien Chazelle",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -3665,11 +3411,9 @@
   "Title": "Whiskey Tango Foxtrot",
   "Year": 2016,
   "Director": "Glenn Ficarra, John Requa",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 107
  },
  {
   "Type": "Movie",
@@ -3677,23 +3421,19 @@
   "Title": "Who Am I",
   "Year": 2014,
   "Director": "Baran bo Odar",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 102
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "Widows",
   "Year": 2018,
   "Director": "Steve McQueen",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 124
  },
  {
   "Type": "Movie",
@@ -3701,11 +3441,19 @@
   "Title": "Winchester",
   "Year": 2018,
   "Director": "Michael Spierig, Peter Spierig",
+  "Seen": "NO",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 109
+ },
+ {
+  "Type": "Movie",
+  "Medium": "DVD",
+  "Title": "Wind River",
+  "Year": 2017,
+  "Director": "Taylor Sheridan",
+  "Seen": "NO",
+  "Franchise": "NO",
+  "Length": 103
  },
  {
   "Type": "Movie",
@@ -3713,11 +3461,10 @@
   "Title": "Wonder Woman",
   "Year": 2017,
   "Director": "Patty Jenkins",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 135
  },
  {
   "Type": "Movie",
@@ -3725,23 +3472,20 @@
   "Title": "Wonder Woman 1984",
   "Year": 2020,
   "Director": "Patty Jenkins",
+  "Seen": "NO",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 153
  },
  {
-  "Type": "Series",
+  "Type": "Movie",
   "Medium": "DVD",
   "Title": "World War Z",
   "Year": 2013,
   "Director": "Marc Forster",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 112
  },
  {
   "Type": "Movie",
@@ -3749,11 +3493,10 @@
   "Title": "X-Men",
   "Year": 2000,
   "Director": "Bryan Singer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 100
  },
  {
   "Type": "Movie",
@@ -3761,11 +3504,10 @@
   "Title": "X-Men United",
   "Year": 2003,
   "Director": "Bryan Singer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 128
  },
  {
   "Type": "Movie",
@@ -3773,11 +3515,10 @@
   "Title": "X-Men: Apocalypse",
   "Year": 2016,
   "Director": "Bryan Singer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 138
  },
  {
   "Type": "Movie",
@@ -3785,11 +3526,10 @@
   "Title": "X-Men: Dark Pheonix",
   "Year": 2019,
   "Director": "Simon Kinberg",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 109
  },
  {
   "Type": "Movie",
@@ -3797,59 +3537,52 @@
   "Title": "X-Men: Days of Future Past",
   "Year": 2014,
   "Director": "Bryan Singer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 126
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "X-Men: First Class",
   "Year": 2011,
   "Director": "Matthew Vaughn",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 126
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "DVD",
   "Title": "X-Men: The Last Stand",
   "Year": 2006,
   "Director": "Brett Ratner",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 100
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Z for Zachariah",
   "Year": 2015,
   "Director": "Craig Zobel",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 98
  },
  {
-  "Type": "Movie",
+  "Type": "Series",
   "Medium": "BluRay",
   "Title": "Zero Dark Thirty",
   "Year": 2012,
   "Director": "Kathryn Bigelow",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 157
  },
  {
   "Type": "Movie",
@@ -3857,11 +3590,10 @@
   "Title": "Zombieland",
   "Year": 2009,
   "Director": "Ruben Fleischer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 84
  },
  {
   "Type": "Movie",
@@ -3869,11 +3601,10 @@
   "Title": "Zombieland: Double Tap",
   "Year": 2019,
   "Director": "Ruben Fleischer",
+  "Seen": "YES",
   "Franchise": "YES",
   "Franchise Complete": "YES",
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 99
  },
  {
   "Type": "Movie",
@@ -3881,10 +3612,8 @@
   "Title": "Zootopia",
   "Year": 2016,
   "Director": "Byron Howard, Rich Moore",
+  "Seen": "YES",
   "Franchise": "NO",
-  "Franchise Complete": null,
-  "Genre": null,
-  "Cast": null,
-  "Crew": null
+  "Length": 104
  }
 ]
