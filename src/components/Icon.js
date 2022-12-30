@@ -2,6 +2,7 @@ import React, {useEffect, useRef} from 'react';
 import * as d3 from 'd3';
 import {GetID, GetImageName} from '../Utils.js';
 import 'react-image-crop/dist/ReactCrop.css';
+import {waitFor} from "@testing-library/react";
 
 var BrowserText = (function () {
     var canvas = document.createElement('canvas'),
@@ -60,18 +61,21 @@ const Icon = (movie_data) => {
             .attr('height', 1)
             .attr('width', 1);
 
-        var imgurl = "placeholder";
-        const img = new Image();
-        img.src = "/images/" + GetImageName(movie_info.Title) + ".jpg";
-        if (img.width !== 0) {
-            imgurl = GetImageName(movie_info.Title);
-        }
-
         pattern.append('svg:image')
             .attr('x', 0)
             .attr('y', 0)
             .attr('width', poster_size)
-            .attr('xlink:href', process.env.PUBLIC_URL + '/images/' + imgurl + '.jpg');
+            .attr('xlink:href', function () {
+                const img = new Image();
+                img.src = process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg';
+                if (img.width > 0){
+                    console.log("IMAGE")
+                    return process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg'
+                } else {
+                    console.log("PLACEHOLDER")
+                    return process.env.PUBLIC_URL + '/images/placeholder.jpg'
+                }
+            });
 
         svg.append('rect')
             .attr('x', margin)
