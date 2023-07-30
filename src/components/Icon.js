@@ -68,6 +68,7 @@ const Icon = (movie_data) => {
             .attr('xlink:href', function () {
                 const img = new Image();
                 img.src = process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg';
+                console.log(img)
                 if (img.width > 0){
                     console.log("IMAGE")
                     return process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg'
