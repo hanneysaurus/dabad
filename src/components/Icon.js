@@ -2,7 +2,6 @@ import React, {useEffect, useRef} from 'react';
 import * as d3 from 'd3';
 import {GetID, GetImageName} from '../Utils.js';
 import 'react-image-crop/dist/ReactCrop.css';
-import {waitFor} from "@testing-library/react";
 
 var BrowserText = (function () {
     var canvas = document.createElement('canvas'),
