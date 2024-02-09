@@ -1,6 +1,7 @@
-import React, {useEffect, useRef} from 'react';
+import React, {useEffect, useRef, useState} from 'react';
 import * as d3 from 'd3';
 import {GetID, GetImageName} from '../Utils.js';
+import DetailPage, {OpenDetails} from "./DetailPage.js";
 import 'react-image-crop/dist/ReactCrop.css';
 
 var BrowserText = (function () {
@@ -20,6 +21,7 @@ var BrowserText = (function () {
 const Icon = (movie_data) => {
 
     var movie_info = movie_data.movie_data;
+
     // state and ref to svg
     const svgRef = useRef();
 
@@ -32,13 +34,11 @@ const Icon = (movie_data) => {
         var svg_width = width + 2 * margin;
         var svg_height = height + 2 * margin;
         var poster_size = width - 2 * margin;
-        var title_font_size = width/10;
+        var title_font_size = width / 10;
         var year_font_size = title_font_size * 0.6;
 
-        console.log(movie_info.Title);
-
         // TODO: linebreak (take from Twisualization)
-        while (BrowserText.getWidth(movie_info.Title, title_font_size, 'Segoe UI') > poster_size){
+        while (BrowserText.getWidth(movie_info.Title, title_font_size, 'Segoe UI') > poster_size) {
             title_font_size--;
         }
 
@@ -65,16 +65,14 @@ const Icon = (movie_data) => {
             .attr('y', 0)
             .attr('width', poster_size)
             .attr('xlink:href', function () {
-                const img = new Image();
-                img.src = process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg';
-                console.log(img)
-                if (img.width > 0){
-                    console.log("IMAGE")
-                    return process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg'
-                } else {
-                    console.log("PLACEHOLDER")
+                var image_path = process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg';
+                /*const img = new Image();
+                img.src = image_path;
+                if (height != 0){*/
+                return image_path
+                /*} else {
                     return process.env.PUBLIC_URL + '/images/placeholder.jpg'
-                }
+                }*/
             });
 
         svg.append('rect')
@@ -85,16 +83,16 @@ const Icon = (movie_data) => {
             .attr('fill', 'url(#' + GetImageName(movie_info.Title) + '_pattern)');
 
         svg.append('text')
-            .attr('x', width/2)
-            .attr('y', width + margin + title_font_size/2)
+            .attr('x', width / 2)
+            .attr('y', width + margin + title_font_size / 2)
             .attr('text-anchor', 'middle')
             .style('font-size', title_font_size)
             .style('font-family', 'Segoe UI')
             .text(movie_info.Title);
 
         svg.append('text')
-            .attr('x', width/2)
-            .attr('y', width + margin + title_font_size + year_font_size/2)
+            .attr('x', width / 2)
+            .attr('y', width + margin + title_font_size + year_font_size / 2)
             .attr('text-anchor', 'middle')
             .style('font-size', year_font_size)
             .text(movie_info.Year);
@@ -103,10 +101,13 @@ const Icon = (movie_data) => {
             svg.selectAll("svg").exit().remove();
         }
 
-    }, );
+    },);
 
     return <React.Fragment>
-        <svg ref={svgRef}/>
+        <svg ref={svgRef} onClick={function () {
+            console.log(movie_data)
+            OpenDetails(movie_data);
+        }}/>
     </React.Fragment>;
 };
 

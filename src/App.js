@@ -3,6 +3,7 @@ import {Route, Routes} from "react-router-dom";
 
 import Navigation from './Navigation.js'
 import Database from './Database.js'
+import DetailPage from './components/DetailPage.js'
 import './App.css'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
             <Navigation/>
             <Routes>
                 <Route exact path="/database" element={<Database/>}/>
+                <Route exact path="/movie/:movie_id" element={<DetailPage/>}/>
             </Routes>
         </div>
     );

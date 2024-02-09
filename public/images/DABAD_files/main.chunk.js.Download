@@ -1,0 +1,1822 @@
+(this["webpackJsonpdabad"] = this["webpackJsonpdabad"] || []).push([["main"],{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css":
+/*!************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/App.css ***!
+  \************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, "* { margin: 0; }\r\n.App {\r\n    height: 100%;\r\n    background-color: #222244;\r\n}\r\n\r\n.Titlefont{\r\n    margin-left: 40px;\r\n    color: gold;\r\n    font-size: 100px;\r\n    font-family: \"Niagara Engraved\", sans-serif;\r\n}\r\n", "",{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,IAAI,SAAS,EAAE;AACf;IACI,YAAY;IACZ,yBAAyB;AAC7B;;AAEA;IACI,iBAAiB;IACjB,WAAW;IACX,gBAAgB;IAChB,2CAA2C;AAC/C","sourcesContent":["* { margin: 0; }\r\n.App {\r\n    height: 100%;\r\n    background-color: #222244;\r\n}\r\n\r\n.Titlefont{\r\n    margin-left: 40px;\r\n    color: gold;\r\n    font-size: 100px;\r\n    font-family: \"Niagara Engraved\", sans-serif;\r\n}\r\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Database.css":
+/*!*****************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/Database.css ***!
+  \*****************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".Subpagefont{\r\n    margin-left: 40px;\r\n    color: gold;\r\n}\r\n\r\n.SearchBar{\r\n    width: 100%;\r\n    display: block;\r\n    justify-content: end;\r\n}\r\n\r\n.Database{\r\n\r\n}\r\n", "",{"version":3,"sources":["webpack://src/Database.css"],"names":[],"mappings":"AAAA;IACI,iBAAiB;IACjB,WAAW;AACf;;AAEA;IACI,WAAW;IACX,cAAc;IACd,oBAAoB;AACxB;;AAEA;;AAEA","sourcesContent":[".Subpagefont{\r\n    margin-left: 40px;\r\n    color: gold;\r\n}\r\n\r\n.SearchBar{\r\n    width: 100%;\r\n    display: block;\r\n    justify-content: end;\r\n}\r\n\r\n.Database{\r\n\r\n}\r\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/SearchBar.css":
+/*!*****************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/SearchBar.css ***!
+  \*****************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, "#searchbar{\r\n    font-size: 18pt;\r\n    height: 42px;\r\n    width : 300px;\r\n    margin-left: 40px;\r\n    margin-top: 10px;\r\n    margin-bottom: 10px;\r\n}\r\n\r\n#searchbutton{\r\n    font-size: 18pt;\r\n    height: 42px;\r\n    width : 100px;\r\n    font-weight: bold;\r\n    margin-left: 10px;\r\n    color: white;\r\n    background-color: #FF2222;\r\n    border-radius: 10px;\r\n}\r\n", "",{"version":3,"sources":["webpack://src/components/SearchBar.css"],"names":[],"mappings":"AAAA;IACI,eAAe;IACf,YAAY;IACZ,aAAa;IACb,iBAAiB;IACjB,gBAAgB;IAChB,mBAAmB;AACvB;;AAEA;IACI,eAAe;IACf,YAAY;IACZ,aAAa;IACb,iBAAiB;IACjB,iBAAiB;IACjB,YAAY;IACZ,yBAAyB;IACzB,mBAAmB;AACvB","sourcesContent":["#searchbar{\r\n    font-size: 18pt;\r\n    height: 42px;\r\n    width : 300px;\r\n    margin-left: 40px;\r\n    margin-top: 10px;\r\n    margin-bottom: 10px;\r\n}\r\n\r\n#searchbutton{\r\n    font-size: 18pt;\r\n    height: 42px;\r\n    width : 100px;\r\n    font-weight: bold;\r\n    margin-left: 10px;\r\n    color: white;\r\n    background-color: #FF2222;\r\n    border-radius: 10px;\r\n}\r\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css":
+/*!**************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css ***!
+  \**************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, "body {\r\n  margin: 0;\r\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\r\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\r\n    sans-serif;\r\n  -webkit-font-smoothing: antialiased;\r\n  -moz-osx-font-smoothing: grayscale;\r\n}\r\n\r\ncode {\r\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\r\n    monospace;\r\n}\r\n", "",{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA;EACE,SAAS;EACT;;cAEY;EACZ,mCAAmC;EACnC,kCAAkC;AACpC;;AAEA;EACE;aACW;AACb","sourcesContent":["body {\r\n  margin: 0;\r\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\r\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\r\n    sans-serif;\r\n  -webkit-font-smoothing: antialiased;\r\n  -moz-osx-font-smoothing: grayscale;\r\n}\r\n\r\ncode {\r\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\r\n    monospace;\r\n}\r\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./src/App.css":
+/*!*********************!*\
+  !*** ./src/App.css ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/App.js":
+/*!********************!*\
+  !*** ./src/App.js ***!
+  \********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./App.css */ "./src/App.css");
+/* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_App_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/index.js");
+/* harmony import */ var _Navigation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Navigation.js */ "./src/Navigation.js");
+/* harmony import */ var _Database_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Database.js */ "./src/Database.js");
+/* harmony import */ var _components_DetailPage_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/DetailPage.js */ "./src/components/DetailPage.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\Hannah\\life\\DABAD\\src\\App.js";
+
+
+
+
+
+
+
+
+function App() {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])("div", {
+    className: "App",
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])("h1", {
+      className: "Titlefont",
+      children: "DABAD - DVD and BluRay Administrator"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 12,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(_Navigation_js__WEBPACK_IMPORTED_MODULE_2__["default"], {}, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 13,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Routes"], {
+      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
+        exact: true,
+        path: "/database",
+        element: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(_Database_js__WEBPACK_IMPORTED_MODULE_3__["default"], {}, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 15,
+          columnNumber: 56
+        }, this)
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 15,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Route"], {
+        exact: true,
+        path: "/movie/:movie_id",
+        element: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(_components_DetailPage_js__WEBPACK_IMPORTED_MODULE_4__["default"], {}, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 16,
+          columnNumber: 63
+        }, this)
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 16,
+        columnNumber: 17
+      }, this)]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 14,
+      columnNumber: 13
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 11,
+    columnNumber: 9
+  }, this);
+}
+
+_c = App;
+/* harmony default export */ __webpack_exports__["default"] = (App);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "App");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/Database.css":
+/*!**************************!*\
+  !*** ./src/Database.css ***!
+  \**************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Database.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Database.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Database.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Database.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Database.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Database.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/Database.js":
+/*!*************************!*\
+  !*** ./src/Database.js ***!
+  \*************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_Icon_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Icon.js */ "./src/components/Icon.js");
+/* harmony import */ var _src_components_SearchBar_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../src/components/SearchBar.js */ "./src/components/SearchBar.js");
+/* harmony import */ var _Database_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Database.css */ "./src/Database.css");
+/* harmony import */ var _Database_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_Database_css__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _data_database_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./data/database.json */ "./src/data/database.json");
+var _data_database_json__WEBPACK_IMPORTED_MODULE_4___namespace = /*#__PURE__*/__webpack_require__.t(/*! ./data/database.json */ "./src/data/database.json", 1);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\Hannah\\life\\DABAD\\src\\Database.js",
+    _s = __webpack_require__.$Refresh$.signature();
+
+
+
+
+
+
+
+
+
+const filterMovies = (movies, query) => {
+  if (!query) {
+    return movies;
+  }
+
+  return movies.filter(movie => {
+    // TODO: add more search query options here
+    const movie_title = movie.Title.toLowerCase();
+    return movie_title.includes(query);
+  });
+};
+
+function Database() {
+  _s();
+
+  const {
+    search
+  } = window.location;
+  const query = new URLSearchParams(search).get('s');
+  const [searchQuery, setSearchQuery] = Object(react__WEBPACK_IMPORTED_MODULE_0__["useState"])(query || '');
+  const filteredMovies = filterMovies(_data_database_json__WEBPACK_IMPORTED_MODULE_4__, searchQuery);
+  var movieCount = 0;
+  var seriesCount = 0;
+
+  for (let i = 0; i < _data_database_json__WEBPACK_IMPORTED_MODULE_4__.length; i++) {
+    if (_data_database_json__WEBPACK_IMPORTED_MODULE_4__[i].Type === "Series") {
+      seriesCount++;
+    } else if (_data_database_json__WEBPACK_IMPORTED_MODULE_4__[i].Type === "Movie") {
+      movieCount++;
+    }
+  }
+
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])("div", {
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])("h1", {
+      className: "Subpagefont",
+      children: ["Full Database [", movieCount, " movies, ", seriesCount, " seasons]"]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 39,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(_src_components_SearchBar_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      className: "SearchBar",
+      searchQuery: searchQuery,
+      setSearchQuery: setSearchQuery
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 40,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])("ul", {
+      className: "Database",
+      children: filteredMovies.map(movie => /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(_components_Icon_js__WEBPACK_IMPORTED_MODULE_1__["default"], {
+        movie_data: movie
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 43,
+        columnNumber: 17
+      }, this))
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 42,
+      columnNumber: 13
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 38,
+    columnNumber: 9
+  }, this);
+}
+
+_s(Database, "pXXt52WI/stnZiWWbi60P0ok4qk=");
+
+_c = Database;
+/* harmony default export */ __webpack_exports__["default"] = (Database);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "Database");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/Navigation.js":
+/*!***************************!*\
+  !*** ./src/Navigation.js ***!
+  \***************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/index.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\Hannah\\life\\DABAD\\src\\Navigation.js";
+
+
+
+
+function Navigation() {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__["jsxDEV"])("ul", {
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__["jsxDEV"])("li", {
+      children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+        to: "/",
+        children: "Home"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 8,
+        columnNumber: 17
+      }, this)
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__["jsxDEV"])("li", {
+      children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+        to: "/database",
+        children: "Database"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 11,
+        columnNumber: 17
+      }, this)
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 10,
+      columnNumber: 13
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 9
+  }, this);
+}
+
+_c = Navigation;
+/* harmony default export */ __webpack_exports__["default"] = (Navigation);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "Navigation");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/Utils.js":
+/*!**********************!*\
+  !*** ./src/Utils.js ***!
+  \**********************/
+/*! exports provided: GetID, GetImageName */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "GetID", function() { return GetID; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "GetImageName", function() { return GetImageName; });
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+function GetID(title, year) {
+  title = title.replace(/ /g, "_");
+  return title + "_" + year;
+}
+
+_c = GetID;
+
+
+function GetImageName(title) {
+  title = title.replaceAll('[', '');
+  title = title.replaceAll(']', '');
+  title = title.replaceAll(')', '');
+  title = title.replaceAll('(', '');
+  title = title.replaceAll("'", '');
+  title = title.replaceAll(':', '');
+  title = title.replaceAll('-', '');
+  title = title.replaceAll('!', '');
+  title = title.replaceAll('?', '');
+  title = title.replaceAll('.', '');
+  title = title.replaceAll(',', '');
+  title = title.replaceAll('&', 'and');
+  title = title.replaceAll('ö', 'o');
+  title = title.replaceAll(/ /g, '_');
+  title = title.replaceAll('__', '_');
+  return title.toLowerCase();
+}
+
+_c2 = GetImageName;
+
+
+var _c, _c2;
+
+__webpack_require__.$Refresh$.register(_c, "GetID");
+__webpack_require__.$Refresh$.register(_c2, "GetImageName");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/components/DetailPage.js":
+/*!**************************************!*\
+  !*** ./src/components/DetailPage.js ***!
+  \**************************************/
+/*! exports provided: OpenDetails, default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "OpenDetails", function() { return OpenDetails; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var d3__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! d3 */ "./node_modules/d3/index.js");
+/* harmony import */ var _Utils_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Utils.js */ "./src/Utils.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\Hannah\\life\\DABAD\\src\\components\\DetailPage.js",
+    _s = __webpack_require__.$Refresh$.signature();
+
+
+
+
+
+
+function OpenDetails(movie_info) {
+  console.log(movie_info);
+  window.location = '/movie/' + Object(_Utils_js__WEBPACK_IMPORTED_MODULE_2__["GetImageName"])(movie_info.Title);
+}
+
+_c = OpenDetails;
+
+
+const DetailPage = movie_info => {
+  _s();
+
+  console.log(movie_info.movie_data.Title);
+  window.location = '/movie/' + Object(_Utils_js__WEBPACK_IMPORTED_MODULE_2__["GetImageName"])(movie_info); // state and ref to svg
+
+  const svgRef = Object(react__WEBPACK_IMPORTED_MODULE_0__["useRef"])(); // code runs only if data has been fetched
+
+  Object(react__WEBPACK_IMPORTED_MODULE_0__["useEffect"])(() => {
+    console.log(movie_info);
+    const svg = d3__WEBPACK_IMPORTED_MODULE_1__["select"](svgRef.current).attr('width', 500).attr('height', 500);
+    svg.append('rect').attr('x', 0).attr('y', 0).attr('width', 500).attr('height', 500).attr('fill', 'white').attr('stroke', 'blue');
+    svg.append('text').attr('x', 250).attr('y', 250).attr('text-anchor', 'middle').style('font-size', 48).style('font-family', 'Segoe UI').text(movie_info.Title);
+    return () => {
+      svg.selectAll("svg").exit().remove();
+    };
+  });
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__["jsxDEV"])(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__["jsxDEV"])("svg", {
+      ref: svgRef
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 50,
+      columnNumber: 9
+    }, undefined)
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 49,
+    columnNumber: 12
+  }, undefined);
+};
+
+_s(DetailPage, "89Ty783ABEwsfMbSOeu9vscWF34=");
+
+_c2 = DetailPage;
+/* harmony default export */ __webpack_exports__["default"] = (DetailPage);
+
+var _c, _c2;
+
+__webpack_require__.$Refresh$.register(_c, "OpenDetails");
+__webpack_require__.$Refresh$.register(_c2, "DetailPage");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/components/Icon.js":
+/*!********************************!*\
+  !*** ./src/components/Icon.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var d3__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! d3 */ "./node_modules/d3/index.js");
+/* harmony import */ var _Utils_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Utils.js */ "./src/Utils.js");
+/* harmony import */ var _DetailPage_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./DetailPage.js */ "./src/components/DetailPage.js");
+/* harmony import */ var react_image_crop_dist_ReactCrop_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-image-crop/dist/ReactCrop.css */ "./node_modules/react-image-crop/dist/ReactCrop.css");
+/* harmony import */ var react_image_crop_dist_ReactCrop_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_image_crop_dist_ReactCrop_css__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\Hannah\\life\\DABAD\\src\\components\\Icon.js",
+    _s = __webpack_require__.$Refresh$.signature();
+
+
+
+
+
+
+
+
+var BrowserText = function () {
+  var canvas = document.createElement('canvas'),
+      context = canvas.getContext('2d');
+
+  function getWidth(text, fontSize, fontFace) {
+    context.font = fontSize + 'px ' + fontFace;
+    return context.measureText(text).width;
+  }
+
+  return {
+    getWidth: getWidth
+  };
+}();
+
+const Icon = movie_data => {
+  _s();
+
+  var movie_info = movie_data.movie_data; // state and ref to svg
+
+  const svgRef = Object(react__WEBPACK_IMPORTED_MODULE_0__["useRef"])(); // code runs only if data has been fetched
+
+  Object(react__WEBPACK_IMPORTED_MODULE_0__["useEffect"])(() => {
+    var width = 200;
+    var height = width * 1.25;
+    var margin = width * 0.05;
+    var svg_width = width + 2 * margin;
+    var svg_height = height + 2 * margin;
+    var poster_size = width - 2 * margin;
+    var title_font_size = width / 10;
+    var year_font_size = title_font_size * 0.6; // TODO: linebreak (take from Twisualization)
+
+    while (BrowserText.getWidth(movie_info.Title, title_font_size, 'Segoe UI') > poster_size) {
+      title_font_size--;
+    }
+
+    const svg = d3__WEBPACK_IMPORTED_MODULE_1__["select"](svgRef.current).attr('width', svg_width).attr('height', svg_height).attr('id', Object(_Utils_js__WEBPACK_IMPORTED_MODULE_2__["GetID"])(movie_info.Title, movie_info.Year));
+    svg.append('rect').attr('x', 0).attr('y', 0).attr('width', width).attr('height', height).attr('fill', 'white').attr('stroke', 'darkblue');
+    var pattern = svg.append('pattern').attr('id', Object(_Utils_js__WEBPACK_IMPORTED_MODULE_2__["GetImageName"])(movie_info.Title) + '_pattern').attr('height', 1).attr('width', 1);
+    pattern.append('svg:image').attr('x', 0).attr('y', 0).attr('width', poster_size).attr('xlink:href', function () {
+      var image_path = "" + '/images/' + Object(_Utils_js__WEBPACK_IMPORTED_MODULE_2__["GetImageName"])(movie_info.Title) + '.jpg';
+      /*const img = new Image();
+      img.src = image_path;
+      if (height != 0){*/
+
+      return image_path;
+      /*} else {
+          return process.env.PUBLIC_URL + '/images/placeholder.jpg'
+      }*/
+    });
+    svg.append('rect').attr('x', margin).attr('y', margin).attr('width', poster_size).attr('height', poster_size).attr('fill', 'url(#' + Object(_Utils_js__WEBPACK_IMPORTED_MODULE_2__["GetImageName"])(movie_info.Title) + '_pattern)');
+    svg.append('text').attr('x', width / 2).attr('y', width + margin + title_font_size / 2).attr('text-anchor', 'middle').style('font-size', title_font_size).style('font-family', 'Segoe UI').text(movie_info.Title);
+    svg.append('text').attr('x', width / 2).attr('y', width + margin + title_font_size + year_font_size / 2).attr('text-anchor', 'middle').style('font-size', year_font_size).text(movie_info.Year);
+    return () => {
+      svg.selectAll("svg").exit().remove();
+    };
+  });
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_5__["jsxDEV"])("svg", {
+      ref: svgRef,
+      onClick: () => Object(_DetailPage_js__WEBPACK_IMPORTED_MODULE_3__["default"])(movie_data)
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 107,
+      columnNumber: 9
+    }, undefined)
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 106,
+    columnNumber: 12
+  }, undefined);
+};
+
+_s(Icon, "89Ty783ABEwsfMbSOeu9vscWF34=");
+
+_c = Icon;
+/* harmony default export */ __webpack_exports__["default"] = (Icon);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "Icon");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/components/SearchBar.css":
+/*!**************************************!*\
+  !*** ./src/components/SearchBar.css ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../../node_modules/postcss-loader/src??postcss!./SearchBar.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/SearchBar.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../../node_modules/postcss-loader/src??postcss!./SearchBar.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/SearchBar.css",
+      function () {
+        content = __webpack_require__(/*! !../../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../../node_modules/postcss-loader/src??postcss!./SearchBar.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/SearchBar.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/components/SearchBar.js":
+/*!*************************************!*\
+  !*** ./src/components/SearchBar.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var _SearchBar_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SearchBar.css */ "./src/components/SearchBar.css");
+/* harmony import */ var _SearchBar_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_SearchBar_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\Hannah\\life\\DABAD\\src\\components\\SearchBar.js";
+
+
+
+const SearchBar = ({
+  searchQuery,
+  setSearchQuery
+}) => {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__["jsxDEV"])("form", {
+    action: "/",
+    method: "get",
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__["jsxDEV"])("input", {
+      value: searchQuery,
+      onInput: e => setSearchQuery(e.target.value),
+      type: "text",
+      id: "searchbar",
+      placeholder: " search movies",
+      name: "s",
+      style: _SearchBar_css__WEBPACK_IMPORTED_MODULE_0___default.a
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 6,
+      columnNumber: 13
+    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__["jsxDEV"])("button", {
+      type: "submit",
+      id: "searchbutton",
+      children: "search"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 15,
+      columnNumber: 13
+    }, undefined)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 5,
+    columnNumber: 9
+  }, undefined);
+};
+
+_c = SearchBar;
+/* harmony default export */ __webpack_exports__["default"] = (SearchBar);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "SearchBar");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/data/database.json":
+/*!********************************!*\
+  !*** ./src/data/database.json ***!
+  \********************************/
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("[{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"1917\",\"Year\":2019,\"Director\":\"Sam Mendes\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":119,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"A Beautiful Mind\",\"Year\":2001,\"Director\":\"Ron Howard\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":130,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"A Girl Walks Home Alone At Night\",\"Year\":2014,\"Director\":\"Ana Lily Amirpour\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"A Quiet Place\",\"Year\":2018,\"Director\":\"John Krasinski\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":87,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"A Simple Favor\",\"Year\":2018,\"Director\":\"Paul Feig\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":112,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Aladdin\",\"Year\":2019,\"Director\":\"Guy Ritchie\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":128,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Aladin\",\"Year\":null,\"Director\":\"\",\"Seen\":\"NO\",\"Franchise\":\"\",\"Franchise Complete\":\"\",\"Length\":50,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Alf [Season 1]\",\"Year\":1988,\"Director\":\"Tom Patchett, Paul Fusco\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":30,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Allegiant\",\"Year\":2016,\"Director\":\"Robert Schwentke\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":115,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Angels & Demons\",\"Year\":2009,\"Director\":\"Ron Howard\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":138,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Annihilation\",\"Year\":2018,\"Director\":\"Alex Garland\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":115,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Aquaman\",\"Year\":2018,\"Director\":\"James Wan\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":137,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Arrival\",\"Year\":2016,\"Director\":\"Denis Villeneuve\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":112,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Asterix der Gallier\",\"Year\":1967,\"Director\":\"Ray Goossens\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":65,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"At Eternity's Gate\",\"Year\":2018,\"Director\":\"Julian Schnabel\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":111,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Avatar\",\"Year\":2009,\"Director\":\"James Cameron\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":162,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Bad Times at the El Royale\",\"Year\":2018,\"Director\":\"Drew Goddard\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":136,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Batman Begins\",\"Year\":2005,\"Director\":\"Christopher Nolan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Batman v Superman: Dawn of Justice\",\"Year\":2016,\"Director\":\"Zack Snyder\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":151,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Battle for the Planet of the Apes\",\"Year\":1973,\"Director\":\"J. Lee Thompson\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":83,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Battle of the Sexes\",\"Year\":2017,\"Director\":\"Jonathan Dayton, Valerie Faris\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Baywatch\",\"Year\":2017,\"Director\":\"Seth Gordon\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":112,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Bean\",\"Year\":1997,\"Director\":\"Mel Smith\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":85,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Beauty and the Beast\",\"Year\":2017,\"Director\":\"Bill Condon\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":129,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Bee Movie\",\"Year\":2007,\"Director\":\"Simon J. Smith, Steve Hickner\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":87,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Beneath the Planet of the Apes\",\"Year\":1970,\"Director\":\"Ted Post\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Birdman or (The Unexpected Virtue of Ignorance)\",\"Year\":2014,\"Director\":\"Alejandro G. Inárritu\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Birds Of Prey (And the Fantabulous Emancipation of One Harley Quinn)\",\"Year\":2020,\"Director\":\"Cathy Yan\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":109,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Black Panther\",\"Year\":2018,\"Director\":\"Ryan Coogler\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"BlacKkKlansman\",\"Year\":2018,\"Director\":\"Spike Lee\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":135,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Blade Runner\",\"Year\":1982,\"Director\":\"Ridley Scott\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":113,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Bombshell\",\"Year\":2019,\"Director\":\"Jay Roach\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Booksmart\",\"Year\":2019,\"Director\":\"Olivia Wilde\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Brooklyn\",\"Year\":2015,\"Director\":\"John Crawley\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Capote\",\"Year\":2005,\"Director\":\"Bennett Miller\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Captain America: The Winter Soldier\",\"Year\":2014,\"Director\":\"Anthony Russo, Joe Russo\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":136,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Carol\",\"Year\":2015,\"Director\":\"Todd Haynes\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Casino Royale\",\"Year\":2006,\"Director\":\"Martin Campbell\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":144,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Charlie and the Chocolate Factory\",\"Year\":2005,\"Director\":\"Tim Burton\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Charlie's Angels\",\"Year\":2019,\"Director\":\"Elizabeth Banks\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Christopher Robin\",\"Year\":2018,\"Director\":\"Marc Forster\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":99,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Citizen Kane\",\"Year\":1941,\"Director\":\"Orson Welles\",\"Seen\":\"NO\",\"Franchise\":\"\",\"Franchise Complete\":\"\",\"Length\":119,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Cloudy with a Chance of Meatballs 2\",\"Year\":2013,\"Director\":\"Cody Cameron, Kris Pearn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Clue\",\"Year\":1985,\"Director\":\"Jonathan Lynn\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":93,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Collateral\",\"Year\":2004,\"Director\":\"Michael Mann\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Conquest of the Planet of the Apes\",\"Year\":1972,\"Director\":\"J. Lee Thompson\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":83,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Crazy Rich Asians\",\"Year\":2018,\"Director\":\"Jon M. Chu\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":116,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Dead Poets Society\",\"Year\":1989,\"Director\":\"Peter Weir\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":123,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Death on the Nile\",\"Year\":1978,\"Director\":\"John Guillermin\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Despicable Me\",\"Year\":2010,\"Director\":\"Pierre Coffin, Chris Renaud\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Despicable Me 2\",\"Year\":2013,\"Director\":\"Pierre Coffin, Chris Renaud\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":94,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Diary of a Wimpy Kid\",\"Year\":2010,\"Director\":\"Thor Freudenthal\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":89,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Diary of a Wimpy Kid: Dog Days\",\"Year\":2012,\"Director\":\"David Bowers\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":90,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Diary of a Wimpy Kid: Rodrick Rules\",\"Year\":2011,\"Director\":\"David Bowers\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":95,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Die Wilden Kerle: Alles ist gut, solange du wild bist!\",\"Year\":2003,\"Director\":\"Joachim Masannek\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":96,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Divergent\",\"Year\":2014,\"Director\":\"Neil Burger\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Doctor Foster: A Woman Scorned\",\"Year\":2015,\"Director\":\"Mike Bartlett\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":60,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Doubt\",\"Year\":2008,\"Director\":\"John Patrick Shanley\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Drive\",\"Year\":2011,\"Director\":\"Nicolas Winding Refn\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":96,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Dune\",\"Year\":2021,\"Director\":\"Denis Villeneuve\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":155,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Easy A\",\"Year\":2010,\"Director\":\"Will Gluck\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":89,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Eddie the Eagle\",\"Year\":2015,\"Director\":\"Dexter Fletcher\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":102,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Escape from the Planet of the Apes\",\"Year\":1971,\"Director\":\"Don Taylor\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":93,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Everything Everywhere All At Once\",\"Year\":2022,\"Director\":\"Dan Kwan, Daniel Scheinert\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Evil Under the Sun\",\"Year\":1982,\"Director\":\"Guy Hamilton\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":111,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ex Machina\",\"Year\":2014,\"Director\":\"Alex Garland\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":103,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Exodus\",\"Year\":2014,\"Director\":\"Ridley Scott\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":150,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Fack Ju Göhte\",\"Year\":2013,\"Director\":\"Bora Dagtekin\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":113,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Fack Ju Göhte 2\",\"Year\":2015,\"Director\":\"Bora Dagtekin\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":111,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Fack Ju Göhte 3\",\"Year\":2017,\"Director\":\"Bora Dagtekin\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Fantastic Beasts and Where to Find Them\",\"Year\":2016,\"Director\":\"David Yates\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":129,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Fantastic Beasts: Crimes of Grindelwald\",\"Year\":2018,\"Director\":\"David Yates\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":128,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"First Man\",\"Year\":2018,\"Director\":\"Damien Chazelle\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":135,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Florence Foster Jenkins\",\"Year\":2016,\"Director\":\"Stephen Frears\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":106,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Focus\",\"Year\":2015,\"Director\":\"Glenn Ficarra, John Requa\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Frank Sinatra: King of Swing\",\"Year\":2019,\"Director\":\"Joseph Peveney, Lewis Allen, Richard Whorf\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":340,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Free Guy\",\"Year\":2021,\"Director\":\"Shawn Levy\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":115,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Frozen\",\"Year\":2013,\"Director\":\"Chris Buck, Jennifer Lee\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Frozen II\",\"Year\":2019,\"Director\":\"Chris Buck, Jennifer Lee\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":103,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Get Out\",\"Year\":2017,\"Director\":\"Jordan Peele\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Glass\",\"Year\":2019,\"Director\":\"M. Night Shyamalan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":130,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Gone Girl\",\"Year\":2014,\"Director\":\"David Fincher\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":143,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Good Will Hunting\",\"Year\":1997,\"Director\":\"Gus Van Sant\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":121,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Goodbye Christopher Robin\",\"Year\":2017,\"Director\":\"Simon Curtis\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":103,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Gravity\",\"Year\":2013,\"Director\":\"Alfonso Cuarón\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":87,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Hacksaw Ridge\",\"Year\":2016,\"Director\":\"Mel Gibson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":139,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Hail, Caesar!\",\"Year\":2016,\"Director\":\"Ethan Coen, Joel Coen\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":106,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Hanna\",\"Year\":2011,\"Director\":\"Joe Wright\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Hans Zimmer: Live in Prague\",\"Year\":2017,\"Director\":\"Tim Van Someren\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":138,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Happiest Season\",\"Year\":2020,\"Director\":\"Clea DuVall\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Chamber of Secrets\",\"Year\":2002,\"Director\":\"Chris Columbus\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":153,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Deathly Hallows - Part 1\",\"Year\":2010,\"Director\":\"David Yates\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":140,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Deathly Hallows - Part 2\",\"Year\":2011,\"Director\":\"David Yates\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":125,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Goblet of Fire\",\"Year\":2005,\"Director\":\"Mike Newell\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":151,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Half-Blood Prince\",\"Year\":2009,\"Director\":\"David Yates\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":147,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Order of the Pheonix\",\"Year\":2007,\"Director\":\"David Yates\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":133,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Philosopher's Stone\",\"Year\":2001,\"Director\":\"Chris Columbus\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":147,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Harry Potter and the Prisoner of Azkaban\",\"Year\":2004,\"Director\":\"Alfonso Cuarón\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":136,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Help\",\"Year\":2021,\"Director\":\"Marc Munden\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Hereditary\",\"Year\":2018,\"Director\":\"Ari Aster\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":127,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Hidden Figures\",\"Year\":2016,\"Director\":\"Theodore Melfi\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":127,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 1]\",\"Year\":2006,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 2]\",\"Year\":2007,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 3]\",\"Year\":2008,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 4]\",\"Year\":2008,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 5]\",\"Year\":2010,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 6]\",\"Year\":2011,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 7]\",\"Year\":2011,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House [Season 8]\",\"Year\":2012,\"Director\":\"David Shore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"House of Cards [Season 1]\",\"Year\":2013,\"Director\":\"Michael Dobbs, Andrew Davies, Beau Willimon\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":60,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"House of Gucci\",\"Year\":2021,\"Director\":\"Ridley Scott\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":152,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Hustlers\",\"Year\":2019,\"Director\":\"Lorene Scafaria\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"I, Tonya\",\"Year\":2017,\"Director\":\"Craig Gillespie\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"In Time\",\"Year\":2011,\"Director\":\"Andrew Niccol\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Inception\",\"Year\":2010,\"Director\":\"Christopher Nolan\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":148,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Indiana Jones and the Kingdom of the Crystal Skull\",\"Year\":2008,\"Director\":\"Steven Spielberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":117,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Indiana Jones and the Last Crucade\",\"Year\":1989,\"Director\":\"Steven Spielberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Indiana Jones and the Temple of Doom\",\"Year\":1984,\"Director\":\"Steven Spielberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Inside Out\",\"Year\":2015,\"Director\":\"Pete Docter\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Instant Family\",\"Year\":2018,\"Director\":\"Sean Anders\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":113,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Insurgent\",\"Year\":2015,\"Director\":\"Robert Schwentke\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":115,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Into the Woods\",\"Year\":2014,\"Director\":\"Rob Marshall\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Isle of Dogs\",\"Year\":2018,\"Director\":\"Wes Anderson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":97,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Jackie\",\"Year\":2016,\"Director\":\"Pablo Larrain\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":96,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"John Williams: Live in Vienna\",\"Year\":2020,\"Director\":\"Michael Beyer\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":155,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Johnny English\",\"Year\":2003,\"Director\":\"Peter Howitt\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":84,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Johnny English Reborn\",\"Year\":2011,\"Director\":\"Oliver Parker\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":97,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Jojo Rabbit\",\"Year\":2019,\"Director\":\"Taika Waititi\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":108,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Joker\",\"Year\":2019,\"Director\":\"Todd Phillips\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Journey to the Center of the Earth\",\"Year\":2008,\"Director\":\"Eric Brevig\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":89,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Judas and the Black Messiah\",\"Year\":2021,\"Director\":\"Shaka King\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Jumanji: Welcome to the Jungle\",\"Year\":2017,\"Director\":\"Jake Kasdan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Jumper\",\"Year\":2008,\"Director\":\"Doug Liman\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":85,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Jurassic Park\",\"Year\":1993,\"Director\":\"Steven Spielberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":127,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Jurassic Park III\",\"Year\":2001,\"Director\":\"Joe Johnston\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":96,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Jurassic World\",\"Year\":2015,\"Director\":\"Colin Trevorrow\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":124,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Jurassic World: Dominion\",\"Year\":2022,\"Director\":\"Colin Trevorrow\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":148,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Jurassic World: Fallen Kingdom\",\"Year\":2018,\"Director\":\"J.A. Bayona\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":129,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Justice League\",\"Year\":2017,\"Director\":\"Zack Snyder\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Killing Eve [Season 1]\",\"Year\":2018,\"Director\":\"Pheobe Waller Bridge\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":42,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Killing Eve [Season 2]\",\"Year\":2019,\"Director\":\"Pheobe Waller Bridge\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":42,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Killing Eve [Season 3]\",\"Year\":2020,\"Director\":\"Pheobe Waller Bridge\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":42,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Killing Eve [Season 4]\",\"Year\":2022,\"Director\":\"Pheobe Waller Bridge\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":42,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Kingsman: The Golden Circle\",\"Year\":2017,\"Director\":\"Matthew Vaughn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":135,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Kingsman: The Secret Service\",\"Year\":2014,\"Director\":\"Matthew Vaughn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":123,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Knives Out\",\"Year\":2019,\"Director\":\"Rian Johnson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":131,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Kong: Skull Island\",\"Year\":2017,\"Director\":\"Jordan Vogt-Roberts\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay, DVD\",\"Title\":\"La La Land\",\"Year\":2016,\"Director\":\"Damien Chazelle\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":123,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Lady Bird\",\"Year\":2017,\"Director\":\"Greta Gerwig\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":90,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Last Christmas\",\"Year\":2019,\"Director\":\"Paul Feig\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Late Night\",\"Year\":2019,\"Director\":\"Nisha Ganatra\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":97,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Life of Pi\",\"Year\":2012,\"Director\":\"Ang Lee\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":127,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Lion\",\"Year\":2016,\"Director\":\"Garth Davis\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":119,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Little Miss Sunshine\",\"Year\":2006,\"Director\":\"Jonathan Dayton, Valerie Faris\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":99,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Looper\",\"Year\":2012,\"Director\":\"Rian Johnson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Lost in Translation\",\"Year\":2004,\"Director\":\"Sofia Coppola\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":97,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ma\",\"Year\":2019,\"Director\":\"Tate Taylor\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":95,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Mad Max: Fury Road\",\"Year\":2015,\"Director\":\"George Miller\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Maleficent\",\"Year\":2014,\"Director\":\"Robert Stromberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":93,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mamma Mia!\",\"Year\":2008,\"Director\":\"Phyllida Lloyd\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mary Poppins\",\"Year\":1964,\"Director\":\"Robert Stevenson\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mary Poppins Returns\",\"Year\":2018,\"Director\":\"Rob Marshall\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":125,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Maze Runner: The Scorch Trials\",\"Year\":2015,\"Director\":\"Wes Ball\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":126,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Minions\",\"Year\":2015,\"Director\":\"Kyle Balda, Pierre Coffin\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Miss Congeniality\",\"Year\":2000,\"Director\":\"Donald Petrie\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":106,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Miss Congeniality 2\",\"Year\":2005,\"Director\":\"John Pasquin\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Miss Sloane\",\"Year\":2016,\"Director\":\"John Madden\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":126,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mission: Impossible - Fallout\",\"Year\":2018,\"Director\":\"Christopher McQuarrie\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":141,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mission: Impossible - Rogue Nation\",\"Year\":2015,\"Director\":\"Christopher McQuarrie\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":126,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Molly's Game\",\"Year\":2017,\"Director\":\"Aaron Sorkin\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Monsters University\",\"Year\":2013,\"Director\":\"Dan Scanion\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Monsters, Inc.\",\"Year\":2001,\"Director\":\"Pete Docter\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":88,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mortal Engines\",\"Year\":2018,\"Director\":\"Christian Rivers\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":123,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Mr. Bean\",\"Year\":1990,\"Director\":\"Rowan Atkinson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":25,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mr. Bean's Holiday\",\"Year\":2007,\"Director\":\"Steve Bendelack\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":86,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mud\",\"Year\":2012,\"Director\":\"Jeff Nichols\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":125,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Murder by Death\",\"Year\":1976,\"Director\":\"Robert Moore\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Murder on the Orient Express\",\"Year\":2017,\"Director\":\"Kenneth Branagh\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Murder on the Orient Express\",\"Year\":1974,\"Director\":\"Sidney Lumet\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Mysteries of the Deep\",\"Year\":2013,\"Director\":\"Danny Mauro\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Night at the Museum\",\"Year\":2006,\"Director\":\"Shawn Levy\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Night at the Museum: Battle of the Smithsonian\",\"Year\":2009,\"Director\":\"Shawn Levy\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Oblivion\",\"Year\":2013,\"Director\":\"Joseph Kosinski\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":125,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Ocean's Eight\",\"Year\":2018,\"Director\":\"Gary Ross\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ocean's Eleven\",\"Year\":2001,\"Director\":\"Stephen Soderbergh\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":116,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ocean's Thirteen\",\"Year\":2007,\"Director\":\"Stephen Soderbergh\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ocean's Twelve\",\"Year\":2004,\"Director\":\"Stephen Soderbergh\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":125,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"One Flew Over the Cuckoo's Nest\",\"Year\":1975,\"Director\":\"Milos Forman\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":128,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 1]\",\"Year\":2003,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 2]\",\"Year\":2004,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 3]\",\"Year\":2005,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 4]\",\"Year\":2006,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 5]\",\"Year\":2008,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 6]\",\"Year\":2008,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 7]\",\"Year\":2009,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 8]\",\"Year\":2010,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"One Tree Hill [Season 9]\",\"Year\":2012,\"Director\":\"Mark Schwahn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":40,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ophelia\",\"Year\":2018,\"Director\":\"Claire McCarthy\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Parasite\",\"Year\":2019,\"Director\":\"Bong Joon Ho\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":127,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Passengers\",\"Year\":2016,\"Director\":\"Morten Tyldum\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":116,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Percy Jackson & the Olympians: The Lightning Thief\",\"Year\":2010,\"Director\":\"Chris Columbus\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Percy Jackson: Sea of Monsters\",\"Year\":2013,\"Director\":\"Thor Freudenthal\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":102,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Peter Rabbit\",\"Year\":2018,\"Director\":\"Will Gluck\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Pitch Perfect\",\"Year\":2012,\"Director\":\"Jason Moore\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Pitch Perfect 2\",\"Year\":2015,\"Director\":\"Elizabeth Banks\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Pitch Perfect 3\",\"Year\":2017,\"Director\":\"Trish Sie\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":89,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Planes, Trains & Automobiles\",\"Year\":1987,\"Director\":\"John Hughes\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":89,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Planet of the Apes\",\"Year\":1968,\"Director\":\"Franklin J. Schaffner\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Pride and Prejudice and Zombies\",\"Year\":2016,\"Director\":\"Burr Steers\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Project Almanac\",\"Year\":2015,\"Director\":\"Dean Isrealite\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":106,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Quantum of Solace\",\"Year\":2008,\"Director\":\"Marc Forster\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":106,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Qu'est-ce qu'on a fait au Bon Dieu?\",\"Year\":2014,\"Director\":\"Philippe de Chauveron\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":93,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Raiders of the Lost Ark\",\"Year\":1981,\"Director\":\"Steven Spielberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":111,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Rat Race\",\"Year\":2001,\"Director\":\"Jerry Zucker\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ratatouille\",\"Year\":2007,\"Director\":\"Brad Bird\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":108,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Ready Player One\",\"Year\":2018,\"Director\":\"Steven Spielberg\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":140,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Red Sparrow\",\"Year\":2018,\"Director\":\"Francis Lawrence\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":134,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Richard Jewell\",\"Year\":2019,\"Director\":\"Clint Eastwood\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":131,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Rise of the Planet of the Apes\",\"Year\":2011,\"Director\":\"Rupert Wyatt\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Rocketman\",\"Year\":2019,\"Director\":\"Dexter Fletcher\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":116,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Room\",\"Year\":2015,\"Director\":\"Lenny Abrahamson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":113,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Sanctum\",\"Year\":2011,\"Director\":\"Alister Grierson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Shark Tale\",\"Year\":2004,\"Director\":\"Rob Letterman, Bibo Bergeron, Vicky Jenson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":86,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Sherlock Holmes and the Case of the Silk Stockings\",\"Year\":2004,\"Director\":\"Simon Cellan Jones\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Shutter Island\",\"Year\":2010,\"Director\":\"Martin Scorsese\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":137,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Sicario\",\"Year\":2015,\"Director\":\"Denis Villeneuve\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":116,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Sing\",\"Year\":2016,\"Director\":\"Garth Jennings\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Sing 2\",\"Year\":2021,\"Director\":\"Garth Jennings\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Singin' in the Rain\",\"Year\":1952,\"Director\":\"Stanley Donen, Gene Kelly\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":99,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Sister Act\",\"Year\":1992,\"Director\":\"Emile Ardolino\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":96,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Sister Act 2: Back in the Habit\",\"Year\":1993,\"Director\":\"Bill Duke\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":102,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Skyfall\",\"Year\":2012,\"Director\":\"Sam Mendes\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":143,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Spectre\",\"Year\":2015,\"Director\":\"Sam Mendes\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":148,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Spider-Man\",\"Year\":2002,\"Director\":\"Sam Raimi\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":116,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Spider-Man 2\",\"Year\":2004,\"Director\":\"Sam Raimi\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Spider-Man 3\",\"Year\":2007,\"Director\":\"Sam Raimi\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":133,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Spider-Man: Homecoming\",\"Year\":2017,\"Director\":\"Jon Watts\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":128,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Spider-Man: Into the Spider-Verse\",\"Year\":2018,\"Director\":\"Bob Persichetti, Peter Ramsey\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":112,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Split\",\"Year\":2016,\"Director\":\"M. Night Shyamalan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":112,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 1]\",\"Year\":1999,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 2]\",\"Year\":2000,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 3]\",\"Year\":2001,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 4]\",\"Year\":2005,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 5]\",\"Year\":2007,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 6]\",\"Year\":2008,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 7]\",\"Year\":2009,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Spongebob Squarepants [Season 8]\",\"Year\":2011,\"Director\":\"Stephen Hillenburg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":10,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Star Wars: Episode IX - The Rise of Skywalker\",\"Year\":2019,\"Director\":\"J.J. Abrams\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":141,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Star Wars: Episode VII - The Force Awakens\",\"Year\":2015,\"Director\":\"J.J. Abrams\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":135,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Star Wars: Episode VIII - The Last Jedi\",\"Year\":2017,\"Director\":\"Rian Johnson\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":152,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Step Up\",\"Year\":2006,\"Director\":\"Anne Fletcher\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Step Up 2 the Streets\",\"Year\":2008,\"Director\":\"Jon M. Chu\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Step Up 3D\",\"Year\":2010,\"Director\":\"Jon M. Chu\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":103,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Step Up All In\",\"Year\":2014,\"Director\":\"Trish Sie\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":108,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Step Up Revolution\",\"Year\":2012,\"Director\":\"Scott Speer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":95,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Still Alice\",\"Year\":2014,\"Director\":\"Richard Glatzer, Wash Westmoreland\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":97,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Stronger\",\"Year\":2017,\"Director\":\"David Gordon Green\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":114,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Submergence\",\"Year\":2017,\"Director\":\"Wim Wenders\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Suicide Squad\",\"Year\":2016,\"Director\":\"David Ayer\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Suspicion\",\"Year\":1941,\"Director\":\"Alfred Hitchcock\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":95,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Taxi Teheran\",\"Year\":2015,\"Director\":\"Jafar Panahi\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":79,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Tenet\",\"Year\":2020,\"Director\":\"Christopher Nolan\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":144,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Terminal\",\"Year\":2018,\"Director\":\"Vaughn Stein\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Accountant\",\"Year\":2016,\"Director\":\"Gavin O'Connor\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Aftermath\",\"Year\":2019,\"Director\":\"James Kent\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Amazing Spider-Man\",\"Year\":2012,\"Director\":\"Marc Webb\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":131,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Amazing Spider-Man 2\",\"Year\":2014,\"Director\":\"Marc Webb\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":136,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Big Lebowski\",\"Year\":1998,\"Director\":\"Ethan Coen, Joel Coen\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Breakfast Club\",\"Year\":1985,\"Director\":\"John Hughes\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":93,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Curious Case of Benjamin Button\",\"Year\":2009,\"Director\":\"David Fincher\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":159,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Da Vinci Code\",\"Year\":2006,\"Director\":\"Ron Howard\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":167,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Dark Knight\",\"Year\":2008,\"Director\":\"Christopher Nolan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":146,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Dark Knight Rises\",\"Year\":2012,\"Director\":\"Christopher Nolan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":160,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Edge of Tomorrow\",\"Year\":2014,\"Director\":\"Doug Liman\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":113,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Farewell\",\"Year\":2019,\"Director\":\"Lulu Wang\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":96,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Favourite\",\"Year\":2018,\"Director\":\"Yorgos Lanthimos\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":115,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Fighter\",\"Year\":2010,\"Director\":\"David O. Russell\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":116,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Front Runner\",\"Year\":2018,\"Director\":\"Jason Reitman\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":109,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"The Good Place [Season 1]\",\"Year\":2016,\"Director\":\"Michael Schur\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":22,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"The Good Place [Season 2]\",\"Year\":2017,\"Director\":\"Michael Schur\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":22,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"The Good Place [Season 3]\",\"Year\":2018,\"Director\":\"Michael Schur\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":22,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"The Good Place [Season 4]\",\"Year\":2019,\"Director\":\"Michael Schur\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":22,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Goonies\",\"Year\":1985,\"Director\":\"Richard Donner\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Grand Budapest Hotel\",\"Year\":2014,\"Director\":\"Wes Anderson\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Greatest Showman\",\"Year\":2017,\"Director\":\"Michael Gracey\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Help\",\"Year\":2011,\"Director\":\"Tate Taylor\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":140,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The High Note\",\"Year\":2020,\"Director\":\"Nisha Ganatra\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":113,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Holiday\",\"Year\":2006,\"Director\":\"Nancy Meyers\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":128,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Hound of the Baskervilles\",\"Year\":2002,\"Director\":\"David Attwood\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The House with a Clock in its Walls\",\"Year\":2018,\"Director\":\"Eli Roth\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":101,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Hunger Games\",\"Year\":2012,\"Director\":\"Gary Ross\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":137,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Hunger Games: Catching Fire\",\"Year\":2013,\"Director\":\"Francis Lawrence\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":141,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Hunger Games: Mockingjay - Part 1\",\"Year\":2014,\"Director\":\"Francis Lawrence\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Hunger Games: Mockingjay - Part 2\",\"Year\":2015,\"Director\":\"Francis Lawrence\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":132,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Huntsman: Winter's War\",\"Year\":2016,\"Director\":\"Cedric Nicolas-Troyan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":109,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Hustle\",\"Year\":2019,\"Director\":\"Chris Addison\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":90,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Imitation Game\",\"Year\":2014,\"Director\":\"Morten Tyldum\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Intern\",\"Year\":2015,\"Director\":\"Nancy Meyers\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":117,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Iron Lady\",\"Year\":2017,\"Director\":\"Phyllida Lloyd\",\"Seen\":\"NO\",\"Franchise\":\"\",\"Franchise Complete\":\"\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Karate Kid\",\"Year\":2010,\"Director\":\"Harald Zwart\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":140,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Last Duel\",\"Year\":2021,\"Director\":\"Ridley Scott\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":152,\"Genre\":\"\",\"Cast\":\"Jodie Comer\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Last King of Scotland\",\"Year\":2007,\"Director\":\"Kevin Macdonald\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Legend of Tarzan\",\"Year\":2016,\"Director\":\"David Yates\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":110,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Light Between Oceans\",\"Year\":2016,\"Director\":\"Derek Cianfrance\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":133,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Lost World: Jurassic Park\",\"Year\":1997,\"Director\":\"Steven Spielberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":129,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Martian\",\"Year\":2015,\"Director\":\"Ridley Scott\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":142,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Mauritanian\",\"Year\":2021,\"Director\":\"Kevin Macdonald\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":124,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Maze Runner\",\"Year\":2014,\"Director\":\"Wes Ball\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":109,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Mirror Crack'd\",\"Year\":1980,\"Director\":\"Guy Hamilton\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":101,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Mummy\",\"Year\":1999,\"Director\":\"Stephen Sommers\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":120,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"BluRay\",\"Title\":\"The Night Manager\",\"Year\":2016,\"Director\":\"David Farr\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":60,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Nutcracker and the Four Realms\",\"Year\":2018,\"Director\":\"Lasse Hallström\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":99,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Second Best Exotic Marigold Hotel\",\"Year\":2015,\"Director\":\"John Madden\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":119,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Shape of Water\",\"Year\":2017,\"Director\":\"Guillermo del Toro\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Simpsons Movie\",\"Year\":2007,\"Director\":\"David Silverman\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":83,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Sound of Music\",\"Year\":1965,\"Director\":\"Robert Wise\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":168,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The SpongeBob SquarePants Movie\",\"Year\":2004,\"Director\":\"Stephen Hillenburg, Mark Osborne\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":83,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"The Suicide Squad\",\"Year\":2021,\"Director\":\"James Gunn\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":132,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Theory of Everything\",\"Year\":2014,\"Director\":\"James Marsh\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Truman Show\",\"Year\":1998,\"Director\":\"Peter Weir\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":99,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"The White Princess\",\"Year\":2017,\"Director\":\"Jamie Payne, Alex Kalymnios\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":60,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"The Zookeeper's Wife\",\"Year\":2017,\"Director\":\"Niki Caro\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":122,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"They\",\"Year\":2001,\"Director\":\"Robert Harmon\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":90,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Thor: Ragnarok\",\"Year\":2017,\"Director\":\"Taika Waititi\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":130,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Ticket to Paradise\",\"Year\":2022,\"Director\":\"Ol Parker\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Tomb Raider\",\"Year\":2018,\"Director\":\"Roar Uthaug\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":118,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Top Gun\",\"Year\":1986,\"Director\":\"Tony Scott\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Toy Story\",\"Year\":1995,\"Director\":\"John Lasseter\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":78,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Toy Story 2\",\"Year\":1999,\"Director\":\"John Lasseter\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":89,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Toy Story 3\",\"Year\":2010,\"Director\":\"Lee Unkrich\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Trolls\",\"Year\":2016,\"Director\":\"Mike Mitchell\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":88,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Trolls World Tour\",\"Year\":2020,\"Director\":\"Walt Dohrn, David P. Smith\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":91,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"True Grit\",\"Year\":2010,\"Director\":\"Ethan Coen, Joel Coen\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":106,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Unbreakable\",\"Year\":2000,\"Director\":\"M. Night Shyamalan\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":102,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Up in the Air\",\"Year\":2009,\"Director\":\"Jason Reitman\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Us\",\"Year\":2019,\"Director\":\"Jordan Peele\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":111,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Venom\",\"Year\":2018,\"Director\":\"Ruben Fleischer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":108,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Vice\",\"Year\":2018,\"Director\":\"Adam McKay\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":129,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Waking Ned Devine\",\"Year\":1998,\"Director\":\"Kirk Jones\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":87,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"War for the Planet of the Apes\",\"Year\":2017,\"Director\":\"Matt Reeves\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"NO\",\"Length\":140,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Series\",\"Medium\":\"DVD\",\"Title\":\"Watchmen\",\"Year\":2019,\"Director\":\"Damon Lindelof\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":56,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"We're the Millers\",\"Year\":2013,\"Director\":\"Rawson Marshall Thurber\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":106,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Where'd you go, Bernadette\",\"Year\":2019,\"Director\":\"Richard Linklater\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":105,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Whiplash\",\"Year\":2014,\"Director\":\"Damien Chazelle\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Whiskey Tango Foxtrot\",\"Year\":2016,\"Director\":\"Glenn Ficarra, John Requa\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":107,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Who Am I\",\"Year\":2014,\"Director\":\"Baran bo Odar\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":102,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Widows\",\"Year\":2018,\"Director\":\"Steve McQueen\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":124,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Winchester\",\"Year\":2018,\"Director\":\"Michael Spierig, Peter Spierig\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":109,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Wind River\",\"Year\":2017,\"Director\":\"Taylor Sheridan\",\"Seen\":\"NO\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":103,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Wonder Woman\",\"Year\":2017,\"Director\":\"Patty Jenkins\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":135,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Wonder Woman 1984\",\"Year\":2020,\"Director\":\"Patty Jenkins\",\"Seen\":\"NO\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":153,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"World War Z\",\"Year\":2013,\"Director\":\"Marc Forster\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":112,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"X-Men\",\"Year\":2000,\"Director\":\"Bryan Singer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"X-Men United\",\"Year\":2003,\"Director\":\"Bryan Singer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":128,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"X-Men: Apocalypse\",\"Year\":2016,\"Director\":\"Bryan Singer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":138,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"X-Men: Dark Pheonix\",\"Year\":2019,\"Director\":\"Simon Kinberg\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":109,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"X-Men: Days of Future Past\",\"Year\":2014,\"Director\":\"Bryan Singer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":126,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"X-Men: First Class\",\"Year\":2011,\"Director\":\"Matthew Vaughn\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":126,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"X-Men: The Last Stand\",\"Year\":2006,\"Director\":\"Brett Ratner\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":100,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Z for Zachariah\",\"Year\":2015,\"Director\":\"Craig Zobel\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":98,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Zero Dark Thirty\",\"Year\":2012,\"Director\":\"Kathryn Bigelow\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":157,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Zombieland\",\"Year\":2009,\"Director\":\"Ruben Fleischer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":84,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"BluRay\",\"Title\":\"Zombieland: Double Tap\",\"Year\":2019,\"Director\":\"Ruben Fleischer\",\"Seen\":\"YES\",\"Franchise\":\"YES\",\"Franchise Complete\":\"YES\",\"Length\":99,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"},{\"Type\":\"Movie\",\"Medium\":\"DVD\",\"Title\":\"Zootopia\",\"Year\":2016,\"Director\":\"Byron Howard, Rich Moore\",\"Seen\":\"YES\",\"Franchise\":\"NO\",\"Franchise Complete\":\"\",\"Length\":104,\"Genre\":\"\",\"Cast\":\"\",\"Crew\":\"\"}]");
+
+/***/ }),
+
+/***/ "./src/index.css":
+/*!***********************!*\
+  !*** ./src/index.css ***!
+  \***********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/index.js":
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.css */ "./src/index.css");
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./App */ "./src/App.js");
+/* harmony import */ var _reportWebVitals__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./reportWebVitals */ "./src/reportWebVitals.js");
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/index.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\Hannah\\life\\DABAD\\src\\index.js";
+
+
+
+
+
+
+
+react_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render( /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_5__["BrowserRouter"], {
+  children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_6__["jsxDEV"])(_App__WEBPACK_IMPORTED_MODULE_3__["default"], {}, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 10,
+    columnNumber: 20
+  }, undefined)
+}, void 0, false, {
+  fileName: _jsxFileName,
+  lineNumber: 10,
+  columnNumber: 5
+}, undefined), document.getElementById('root')); // If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+
+Object(_reportWebVitals__WEBPACK_IMPORTED_MODULE_4__["default"])();
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/reportWebVitals.js":
+/*!********************************!*\
+  !*** ./src/reportWebVitals.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+const reportWebVitals = onPerfEntry => {
+  if (onPerfEntry && onPerfEntry instanceof Function) {
+    __webpack_require__.e(/*! import() */ 0).then(__webpack_require__.bind(null, /*! web-vitals */ "./node_modules/web-vitals/dist/web-vitals.js")).then(({
+      getCLS,
+      getFID,
+      getFCP,
+      getLCP,
+      getTTFB
+    }) => {
+      getCLS(onPerfEntry);
+      getFID(onPerfEntry);
+      getFCP(onPerfEntry);
+      getLCP(onPerfEntry);
+      getTTFB(onPerfEntry);
+    });
+  }
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (reportWebVitals);
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ 1:
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** multi (webpack)/hot/dev-server.js ./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js ./node_modules/react-dev-utils/webpackHotDevClient.js ./src/index.js ***!
+  \**********************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(/*! C:\Users\Hannah\life\DABAD\node_modules\webpack\hot\dev-server.js */"./node_modules/webpack/hot/dev-server.js");
+__webpack_require__(/*! C:\Users\Hannah\life\DABAD\node_modules\@pmmmwh\react-refresh-webpack-plugin\client\ReactRefreshEntry.js */"./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js");
+__webpack_require__(/*! C:\Users\Hannah\life\DABAD\node_modules\react-dev-utils\webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
+module.exports = __webpack_require__(/*! C:\Users\Hannah\life\DABAD\src\index.js */"./src/index.js");
+
+
+/***/ })
+
+},[[1,"runtime-main","vendors~main"]]]);
+//# sourceMappingURL=main.chunk.js.map
