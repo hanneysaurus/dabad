@@ -2,12 +2,9 @@ import React, {useEffect, useRef, useState} from "react";
 import * as d3 from "d3";
 import {GetImageName} from '../Utils.js';
 
-var MOVIE_DATA;
 // https://www.geeksforgeeks.org/how-to-pass-data-from-one-component-to-other-component-in-reactjs/
 
 function OpenDetails(movie_data){
-    MOVIE_DATA = movie_data;
-    console.log(movie_data)
     window.location = '/movie/' + GetImageName(movie_data.movie_data.Title);
 } export {OpenDetails}
 
@@ -21,7 +18,7 @@ const DetailPage = (movie_info) => {
     // code runs only if data has been fetched
     useEffect(() => {
 
-        console.log(MOVIE_DATA);
+        console.log(movie_info);
 
         const svg = d3.select(svgRef.current)
             .attr('width', 500)
@@ -36,12 +33,12 @@ const DetailPage = (movie_info) => {
             .attr('stroke', 'blue');
 
         svg.append('text')
-            .attr('x', 250)
-            .attr('y', 250)
-            .attr('text-anchor', 'middle')
-            .style('font-size', 48)
-            .style('font-family', 'Segoe UI')
-            .text(movie_info.Title);
+            .attr('x', 20)
+            .attr('y', 48)
+            .attr('text-anchor', 'left')
+            .attr('color', 'black')
+            .style('font-size', 24)
+            .text("MOVIE TITLE");
 
         return () => {
             svg.selectAll("svg").exit().remove();

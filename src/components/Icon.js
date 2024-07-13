@@ -65,14 +65,7 @@ const Icon = (movie_data) => {
             .attr('y', 0)
             .attr('width', poster_size)
             .attr('xlink:href', function () {
-                var image_path = process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg';
-                /*const img = new Image();
-                img.src = image_path;
-                if (height != 0){*/
-                return image_path
-                /*} else {
-                    return process.env.PUBLIC_URL + '/images/placeholder.jpg'
-                }*/
+                return process.env.PUBLIC_URL + '/images/' + GetImageName(movie_info.Title) + '.jpg';
             });
 
         svg.append('rect')
@@ -105,7 +98,6 @@ const Icon = (movie_data) => {
 
     return <React.Fragment>
         <svg ref={svgRef} onClick={function () {
-            console.log(movie_data)
             OpenDetails(movie_data);
         }}/>
     </React.Fragment>;
